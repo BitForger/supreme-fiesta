@@ -1,0 +1,4610 @@
+[
+    {
+        "id": "5eb0118da24677822bb37197",
+        "checkItemStates": null,
+        "closed": false,
+        "dateLastActivity": "2020-05-04T13:11:22.007Z",
+        "desc": "",
+        "descData": null,
+        "dueReminder": null,
+        "idBoard": "5eb0118da24677822bb3716d",
+        "idList": "5eb0118da24677822bb3716e",
+        "idMembersVoted": [],
+        "idShort": 10,
+        "idAttachmentCover": null,
+        "idLabels": [],
+        "manualCoverAttachment": false,
+        "name": "1.  Happy Star Wars Day!  2.  How ya holding up? 15-ish mins",
+        "pos": 32767.5,
+        "shortLink": "yhnxG97D",
+        "isTemplate": false,
+        "badges": {
+            "attachmentsByType": {
+                "trello": {
+                    "board": 0,
+                    "card": 0
+                }
+            },
+            "location": false,
+            "votes": 0,
+            "viewingMemberVoted": false,
+            "subscribed": false,
+            "fogbugz": "",
+            "checkItems": 0,
+            "checkItemsChecked": 0,
+            "checkItemsEarliestDue": null,
+            "comments": 0,
+            "attachments": 0,
+            "description": false,
+            "due": null,
+            "dueComplete": false
+        },
+        "dueComplete": false,
+        "due": null,
+        "idChecklists": [],
+        "idMembers": [],
+        "labels": [],
+        "shortUrl": "https://trello.com/c/yhnxG97D",
+        "subscribed": false,
+        "url": "https://trello.com/c/yhnxG97D/10-1-happy-star-wars-day-2-how-ya-holding-up-15-ish-mins",
+        "cover": {
+            "idAttachment": null,
+            "color": null,
+            "idUploadedBackground": null,
+            "size": "normal",
+            "brightness": "light"
+        }
+    },
+    {
+        "id": "5eb0473967993651b03c4573",
+        "checkItemStates": null,
+        "closed": false,
+        "dateLastActivity": "2020-05-04T16:47:59.614Z",
+        "desc": "",
+        "descData": null,
+        "dueReminder": null,
+        "idBoard": "5eb0118da24677822bb3716d",
+        "idList": "5eb0118da24677822bb3716e",
+        "idMembersVoted": [],
+        "idShort": 56,
+        "idAttachmentCover": null,
+        "idLabels": [],
+        "manualCoverAttachment": false,
+        "name": "Share the Love: 10 mins",
+        "pos": 81919.25,
+        "shortLink": "HDiWzy7z",
+        "isTemplate": false,
+        "badges": {
+            "attachmentsByType": {
+                "trello": {
+                    "board": 0,
+                    "card": 0
+                }
+            },
+            "location": false,
+            "votes": 0,
+            "viewingMemberVoted": false,
+            "subscribed": false,
+            "fogbugz": "",
+            "checkItems": 0,
+            "checkItemsChecked": 0,
+            "checkItemsEarliestDue": null,
+            "comments": 0,
+            "attachments": 0,
+            "description": false,
+            "due": null,
+            "dueComplete": false
+        },
+        "dueComplete": false,
+        "due": null,
+        "idChecklists": [],
+        "idMembers": [],
+        "labels": [],
+        "shortUrl": "https://trello.com/c/HDiWzy7z",
+        "subscribed": false,
+        "url": "https://trello.com/c/HDiWzy7z/56-share-the-love-10-mins",
+        "cover": {
+            "idAttachment": null,
+            "color": null,
+            "idUploadedBackground": null,
+            "size": "normal",
+            "brightness": "light"
+        }
+    },
+    {
+        "id": "5eb0118da24677822bb3718d",
+        "checkItemStates": null,
+        "closed": false,
+        "dateLastActivity": "2020-05-04T16:47:39.778Z",
+        "desc": "",
+        "descData": null,
+        "dueReminder": null,
+        "idBoard": "5eb0118da24677822bb3716d",
+        "idList": "5eb0118da24677822bb3716e",
+        "idMembersVoted": [],
+        "idShort": 5,
+        "idAttachmentCover": null,
+        "idLabels": [],
+        "manualCoverAttachment": false,
+        "name": "Dare, Care, and Share: 5 mins",
+        "pos": 131071,
+        "shortLink": "bh7HKVRG",
+        "isTemplate": false,
+        "badges": {
+            "attachmentsByType": {
+                "trello": {
+                    "board": 0,
+                    "card": 0
+                }
+            },
+            "location": false,
+            "votes": 0,
+            "viewingMemberVoted": false,
+            "subscribed": false,
+            "fogbugz": "",
+            "checkItems": 0,
+            "checkItemsChecked": 0,
+            "checkItemsEarliestDue": null,
+            "comments": 0,
+            "attachments": 0,
+            "description": false,
+            "due": null,
+            "dueComplete": false
+        },
+        "dueComplete": false,
+        "due": null,
+        "idChecklists": [],
+        "idMembers": [],
+        "labels": [],
+        "shortUrl": "https://trello.com/c/bh7HKVRG",
+        "subscribed": false,
+        "url": "https://trello.com/c/bh7HKVRG/5-dare-care-and-share-5-mins",
+        "cover": {
+            "idAttachment": null,
+            "color": null,
+            "idUploadedBackground": null,
+            "size": "normal",
+            "brightness": "light"
+        }
+    },
+    {
+        "id": "5eb0118da24677822bb3718f",
+        "checkItemStates": null,
+        "closed": false,
+        "dateLastActivity": "2020-05-04T12:58:54.530Z",
+        "desc": "",
+        "descData": null,
+        "dueReminder": null,
+        "idBoard": "5eb0118da24677822bb3716d",
+        "idList": "5eb0118da24677822bb3716e",
+        "idMembersVoted": [],
+        "idShort": 6,
+        "idAttachmentCover": null,
+        "idLabels": [],
+        "manualCoverAttachment": false,
+        "name": "Dare read and discuss: 10 mins",
+        "pos": 196607,
+        "shortLink": "dwJai7EA",
+        "isTemplate": false,
+        "badges": {
+            "attachmentsByType": {
+                "trello": {
+                    "board": 0,
+                    "card": 0
+                }
+            },
+            "location": false,
+            "votes": 0,
+            "viewingMemberVoted": false,
+            "subscribed": false,
+            "fogbugz": "",
+            "checkItems": 0,
+            "checkItemsChecked": 0,
+            "checkItemsEarliestDue": null,
+            "comments": 0,
+            "attachments": 0,
+            "description": false,
+            "due": null,
+            "dueComplete": false
+        },
+        "dueComplete": false,
+        "due": null,
+        "idChecklists": [],
+        "idMembers": [],
+        "labels": [],
+        "shortUrl": "https://trello.com/c/dwJai7EA",
+        "subscribed": false,
+        "url": "https://trello.com/c/dwJai7EA/6-dare-read-and-discuss-10-mins",
+        "cover": {
+            "idAttachment": null,
+            "color": null,
+            "idUploadedBackground": null,
+            "size": "normal",
+            "brightness": "light"
+        }
+    },
+    {
+        "id": "5eb0118da24677822bb37191",
+        "checkItemStates": null,
+        "closed": false,
+        "dateLastActivity": "2020-05-04T12:58:54.267Z",
+        "desc": "",
+        "descData": null,
+        "dueReminder": null,
+        "idBoard": "5eb0118da24677822bb3716d",
+        "idList": "5eb0118da24677822bb3716e",
+        "idMembersVoted": [],
+        "idShort": 7,
+        "idAttachmentCover": null,
+        "idLabels": [],
+        "manualCoverAttachment": false,
+        "name": "Care read and discuss: 10 mins",
+        "pos": 262143,
+        "shortLink": "C7tXK9Of",
+        "isTemplate": false,
+        "badges": {
+            "attachmentsByType": {
+                "trello": {
+                    "board": 0,
+                    "card": 0
+                }
+            },
+            "location": false,
+            "votes": 0,
+            "viewingMemberVoted": false,
+            "subscribed": false,
+            "fogbugz": "",
+            "checkItems": 0,
+            "checkItemsChecked": 0,
+            "checkItemsEarliestDue": null,
+            "comments": 0,
+            "attachments": 0,
+            "description": false,
+            "due": null,
+            "dueComplete": false
+        },
+        "dueComplete": false,
+        "due": null,
+        "idChecklists": [],
+        "idMembers": [],
+        "labels": [],
+        "shortUrl": "https://trello.com/c/C7tXK9Of",
+        "subscribed": false,
+        "url": "https://trello.com/c/C7tXK9Of/7-care-read-and-discuss-10-mins",
+        "cover": {
+            "idAttachment": null,
+            "color": null,
+            "idUploadedBackground": null,
+            "size": "normal",
+            "brightness": "light"
+        }
+    },
+    {
+        "id": "5eb0118da24677822bb37193",
+        "checkItemStates": null,
+        "closed": false,
+        "dateLastActivity": "2020-05-04T12:58:54.235Z",
+        "desc": "",
+        "descData": null,
+        "dueReminder": null,
+        "idBoard": "5eb0118da24677822bb3716d",
+        "idList": "5eb0118da24677822bb3716e",
+        "idMembersVoted": [],
+        "idShort": 8,
+        "idAttachmentCover": null,
+        "idLabels": [],
+        "manualCoverAttachment": false,
+        "name": "Share read and discuss: 10 mins",
+        "pos": 327679,
+        "shortLink": "ynfAPU6j",
+        "isTemplate": false,
+        "badges": {
+            "attachmentsByType": {
+                "trello": {
+                    "board": 0,
+                    "card": 0
+                }
+            },
+            "location": false,
+            "votes": 0,
+            "viewingMemberVoted": false,
+            "subscribed": false,
+            "fogbugz": "",
+            "checkItems": 0,
+            "checkItemsChecked": 0,
+            "checkItemsEarliestDue": null,
+            "comments": 0,
+            "attachments": 0,
+            "description": false,
+            "due": null,
+            "dueComplete": false
+        },
+        "dueComplete": false,
+        "due": null,
+        "idChecklists": [],
+        "idMembers": [],
+        "labels": [],
+        "shortUrl": "https://trello.com/c/ynfAPU6j",
+        "subscribed": false,
+        "url": "https://trello.com/c/ynfAPU6j/8-share-read-and-discuss-10-mins",
+        "cover": {
+            "idAttachment": null,
+            "color": null,
+            "idUploadedBackground": null,
+            "size": "normal",
+            "brightness": "light"
+        }
+    },
+    {
+        "id": "5eb0118da24677822bb37195",
+        "checkItemStates": null,
+        "closed": false,
+        "dateLastActivity": "2020-05-04T13:12:04.145Z",
+        "desc": "",
+        "descData": null,
+        "dueReminder": null,
+        "idBoard": "5eb0118da24677822bb3716d",
+        "idList": "5eb0118da24677822bb3716e",
+        "idMembersVoted": [],
+        "idShort": 9,
+        "idAttachmentCover": null,
+        "idLabels": [],
+        "manualCoverAttachment": false,
+        "name": "Voting 5 min",
+        "pos": 393215,
+        "shortLink": "cBMWb1yu",
+        "isTemplate": false,
+        "badges": {
+            "attachmentsByType": {
+                "trello": {
+                    "board": 0,
+                    "card": 0
+                }
+            },
+            "location": false,
+            "votes": 0,
+            "viewingMemberVoted": false,
+            "subscribed": false,
+            "fogbugz": "",
+            "checkItems": 0,
+            "checkItemsChecked": 0,
+            "checkItemsEarliestDue": null,
+            "comments": 0,
+            "attachments": 0,
+            "description": false,
+            "due": null,
+            "dueComplete": false
+        },
+        "dueComplete": false,
+        "due": null,
+        "idChecklists": [],
+        "idMembers": [],
+        "labels": [],
+        "shortUrl": "https://trello.com/c/cBMWb1yu",
+        "subscribed": false,
+        "url": "https://trello.com/c/cBMWb1yu/9-voting-5-min",
+        "cover": {
+            "idAttachment": null,
+            "color": null,
+            "idUploadedBackground": null,
+            "size": "normal",
+            "brightness": "light"
+        }
+    },
+    {
+        "id": "5eb0118da24677822bb37199",
+        "checkItemStates": null,
+        "closed": false,
+        "dateLastActivity": "2020-05-04T13:12:51.164Z",
+        "desc": "",
+        "descData": null,
+        "dueReminder": null,
+        "idBoard": "5eb0118da24677822bb3716d",
+        "idList": "5eb0118da24677822bb3716e",
+        "idMembersVoted": [],
+        "idShort": 11,
+        "idAttachmentCover": null,
+        "idLabels": [],
+        "manualCoverAttachment": false,
+        "name": "Discussion of top ideas 20 min",
+        "pos": 409599,
+        "shortLink": "VRPSS9O1",
+        "isTemplate": false,
+        "badges": {
+            "attachmentsByType": {
+                "trello": {
+                    "board": 0,
+                    "card": 0
+                }
+            },
+            "location": false,
+            "votes": 0,
+            "viewingMemberVoted": false,
+            "subscribed": false,
+            "fogbugz": "",
+            "checkItems": 0,
+            "checkItemsChecked": 0,
+            "checkItemsEarliestDue": null,
+            "comments": 0,
+            "attachments": 0,
+            "description": false,
+            "due": null,
+            "dueComplete": false
+        },
+        "dueComplete": false,
+        "due": null,
+        "idChecklists": [],
+        "idMembers": [],
+        "labels": [],
+        "shortUrl": "https://trello.com/c/VRPSS9O1",
+        "subscribed": false,
+        "url": "https://trello.com/c/VRPSS9O1/11-discussion-of-top-ideas-20-min",
+        "cover": {
+            "idAttachment": null,
+            "color": null,
+            "idUploadedBackground": null,
+            "size": "normal",
+            "brightness": "light"
+        }
+    },
+    {
+        "id": "5eb014e894983f5b55c49a78",
+        "checkItemStates": null,
+        "closed": false,
+        "dateLastActivity": "2020-05-04T13:13:12.294Z",
+        "desc": "",
+        "descData": null,
+        "dueReminder": null,
+        "idBoard": "5eb0118da24677822bb3716d",
+        "idList": "5eb0118da24677822bb3716e",
+        "idMembersVoted": [],
+        "idShort": 53,
+        "idAttachmentCover": null,
+        "idLabels": [],
+        "manualCoverAttachment": false,
+        "name": "Retro on Retro 10 min",
+        "pos": 475135,
+        "shortLink": "ZymYpScd",
+        "isTemplate": false,
+        "badges": {
+            "attachmentsByType": {
+                "trello": {
+                    "board": 0,
+                    "card": 0
+                }
+            },
+            "location": false,
+            "votes": 0,
+            "viewingMemberVoted": false,
+            "subscribed": false,
+            "fogbugz": "",
+            "checkItems": 0,
+            "checkItemsChecked": 0,
+            "checkItemsEarliestDue": null,
+            "comments": 0,
+            "attachments": 0,
+            "description": false,
+            "due": null,
+            "dueComplete": false
+        },
+        "dueComplete": false,
+        "due": null,
+        "idChecklists": [],
+        "idMembers": [],
+        "labels": [],
+        "shortUrl": "https://trello.com/c/ZymYpScd",
+        "subscribed": false,
+        "url": "https://trello.com/c/ZymYpScd/53-retro-on-retro-10-min",
+        "cover": {
+            "idAttachment": null,
+            "color": null,
+            "idUploadedBackground": null,
+            "size": "normal",
+            "brightness": "light"
+        }
+    },
+    {
+        "id": "5eb0151fdba7d91ee26beb07",
+        "checkItemStates": null,
+        "closed": false,
+        "dateLastActivity": "2020-05-04T13:14:07.406Z",
+        "desc": "",
+        "descData": null,
+        "dueReminder": null,
+        "idBoard": "5eb0118da24677822bb3716d",
+        "idList": "5eb0118da24677822bb3716e",
+        "idMembersVoted": [],
+        "idShort": 54,
+        "idAttachmentCover": null,
+        "idLabels": [],
+        "manualCoverAttachment": false,
+        "name": "Next Community Retro Jun 12th - Raf",
+        "pos": 540671,
+        "shortLink": "AiTHZG79",
+        "isTemplate": false,
+        "badges": {
+            "attachmentsByType": {
+                "trello": {
+                    "board": 0,
+                    "card": 0
+                }
+            },
+            "location": false,
+            "votes": 0,
+            "viewingMemberVoted": false,
+            "subscribed": false,
+            "fogbugz": "",
+            "checkItems": 0,
+            "checkItemsChecked": 0,
+            "checkItemsEarliestDue": null,
+            "comments": 0,
+            "attachments": 0,
+            "description": false,
+            "due": null,
+            "dueComplete": false
+        },
+        "dueComplete": false,
+        "due": null,
+        "idChecklists": [],
+        "idMembers": [],
+        "labels": [],
+        "shortUrl": "https://trello.com/c/AiTHZG79",
+        "subscribed": false,
+        "url": "https://trello.com/c/AiTHZG79/54-next-community-retro-jun-12th-raf",
+        "cover": {
+            "idAttachment": null,
+            "color": null,
+            "idUploadedBackground": null,
+            "size": "normal",
+            "brightness": "light"
+        }
+    },
+    {
+        "id": "5eb0476f40435a2ba24aa10b",
+        "checkItemStates": null,
+        "closed": false,
+        "dateLastActivity": "2020-05-04T16:48:47.453Z",
+        "desc": "",
+        "descData": null,
+        "dueReminder": null,
+        "idBoard": "5eb0118da24677822bb3716d",
+        "idList": "5eb0471bd76c7d8498665bc5",
+        "idMembersVoted": [],
+        "idShort": 57,
+        "idAttachmentCover": null,
+        "idLabels": [],
+        "manualCoverAttachment": false,
+        "name": "Who was awesome this past iteration and why?",
+        "pos": 65535,
+        "shortLink": "xeUJlRnj",
+        "isTemplate": false,
+        "badges": {
+            "attachmentsByType": {
+                "trello": {
+                    "board": 0,
+                    "card": 0
+                }
+            },
+            "location": false,
+            "votes": 0,
+            "viewingMemberVoted": false,
+            "subscribed": false,
+            "fogbugz": "",
+            "checkItems": 0,
+            "checkItemsChecked": 0,
+            "checkItemsEarliestDue": null,
+            "comments": 0,
+            "attachments": 0,
+            "description": false,
+            "due": null,
+            "dueComplete": false
+        },
+        "dueComplete": false,
+        "due": null,
+        "idChecklists": [],
+        "idMembers": [],
+        "labels": [],
+        "shortUrl": "https://trello.com/c/xeUJlRnj",
+        "subscribed": false,
+        "url": "https://trello.com/c/xeUJlRnj/57-who-was-awesome-this-past-iteration-and-why",
+        "cover": {
+            "idAttachment": null,
+            "color": null,
+            "idUploadedBackground": null,
+            "size": "normal",
+            "brightness": "light"
+        }
+    },
+    {
+        "id": "5eb04f320dccca2aeadb8c93",
+        "checkItemStates": null,
+        "closed": false,
+        "dateLastActivity": "2020-05-04T17:24:18.547Z",
+        "desc": "",
+        "descData": null,
+        "dueReminder": null,
+        "idBoard": "5eb0118da24677822bb3716d",
+        "idList": "5eb0471bd76c7d8498665bc5",
+        "idMembersVoted": [],
+        "idShort": 72,
+        "idAttachmentCover": null,
+        "idLabels": [],
+        "manualCoverAttachment": false,
+        "name": "Rob for leading team effort to streamline K8S secrets",
+        "pos": 66559,
+        "shortLink": "vxlEYZki",
+        "isTemplate": false,
+        "badges": {
+            "attachmentsByType": {
+                "trello": {
+                    "board": 0,
+                    "card": 0
+                }
+            },
+            "location": false,
+            "votes": 0,
+            "viewingMemberVoted": false,
+            "subscribed": false,
+            "fogbugz": "",
+            "checkItems": 0,
+            "checkItemsChecked": 0,
+            "checkItemsEarliestDue": null,
+            "comments": 0,
+            "attachments": 0,
+            "description": false,
+            "due": null,
+            "dueComplete": false
+        },
+        "dueComplete": false,
+        "due": null,
+        "idChecklists": [],
+        "idMembers": [],
+        "labels": [],
+        "shortUrl": "https://trello.com/c/vxlEYZki",
+        "subscribed": false,
+        "url": "https://trello.com/c/vxlEYZki/72-rob-for-leading-team-effort-to-streamline-k8s-secrets",
+        "cover": {
+            "idAttachment": null,
+            "color": null,
+            "idUploadedBackground": null,
+            "size": "normal",
+            "brightness": "light"
+        }
+    },
+    {
+        "id": "5eb04f41324c6c10a99ce858",
+        "checkItemStates": null,
+        "closed": false,
+        "dateLastActivity": "2020-05-04T17:22:27.505Z",
+        "desc": "",
+        "descData": null,
+        "dueReminder": null,
+        "idBoard": "5eb0118da24677822bb3716d",
+        "idList": "5eb0471bd76c7d8498665bc5",
+        "idMembersVoted": [],
+        "idShort": 76,
+        "idAttachmentCover": null,
+        "idLabels": [],
+        "manualCoverAttachment": false,
+        "name": "David's ducks for keeping things light, levity",
+        "pos": 67071,
+        "shortLink": "pEbLSIns",
+        "isTemplate": false,
+        "badges": {
+            "attachmentsByType": {
+                "trello": {
+                    "board": 0,
+                    "card": 0
+                }
+            },
+            "location": false,
+            "votes": 0,
+            "viewingMemberVoted": false,
+            "subscribed": false,
+            "fogbugz": "",
+            "checkItems": 0,
+            "checkItemsChecked": 0,
+            "checkItemsEarliestDue": null,
+            "comments": 0,
+            "attachments": 0,
+            "description": false,
+            "due": null,
+            "dueComplete": false
+        },
+        "dueComplete": false,
+        "due": null,
+        "idChecklists": [],
+        "idMembers": [],
+        "labels": [],
+        "shortUrl": "https://trello.com/c/pEbLSIns",
+        "subscribed": false,
+        "url": "https://trello.com/c/pEbLSIns/76-davids-ducks-for-keeping-things-light-levity",
+        "cover": {
+            "idAttachment": null,
+            "color": null,
+            "idUploadedBackground": null,
+            "size": "normal",
+            "brightness": "light"
+        }
+    },
+    {
+        "id": "5eb04ee52490cf5284c099ed",
+        "checkItemStates": null,
+        "closed": false,
+        "dateLastActivity": "2020-05-04T17:20:37.192Z",
+        "desc": "",
+        "descData": null,
+        "dueReminder": null,
+        "idBoard": "5eb0118da24677822bb3716d",
+        "idList": "5eb0471bd76c7d8498665bc5",
+        "idMembersVoted": [],
+        "idShort": 64,
+        "idAttachmentCover": null,
+        "idLabels": [],
+        "manualCoverAttachment": false,
+        "name": "@ben for really really helping us think differently about our tasks. I know the future state will help us be less anxious.",
+        "pos": 67583,
+        "shortLink": "fEtzBL3P",
+        "isTemplate": false,
+        "badges": {
+            "attachmentsByType": {
+                "trello": {
+                    "board": 0,
+                    "card": 0
+                }
+            },
+            "location": false,
+            "votes": 0,
+            "viewingMemberVoted": false,
+            "subscribed": false,
+            "fogbugz": "",
+            "checkItems": 0,
+            "checkItemsChecked": 0,
+            "checkItemsEarliestDue": null,
+            "comments": 0,
+            "attachments": 0,
+            "description": false,
+            "due": null,
+            "dueComplete": false
+        },
+        "dueComplete": false,
+        "due": null,
+        "idChecklists": [],
+        "idMembers": [],
+        "labels": [],
+        "shortUrl": "https://trello.com/c/fEtzBL3P",
+        "subscribed": false,
+        "url": "https://trello.com/c/fEtzBL3P/64-ben-for-really-really-helping-us-think-differently-about-our-tasks-i-know-the-future-state-will-help-us-be-less-anxious",
+        "cover": {
+            "idAttachment": null,
+            "color": null,
+            "idUploadedBackground": null,
+            "size": "normal",
+            "brightness": "light"
+        }
+    },
+    {
+        "id": "5eb04eeb4833466e3010af7b",
+        "checkItemStates": null,
+        "closed": false,
+        "dateLastActivity": "2020-05-04T17:20:43.206Z",
+        "desc": "",
+        "descData": null,
+        "dueReminder": null,
+        "idBoard": "5eb0118da24677822bb3716d",
+        "idList": "5eb0471bd76c7d8498665bc5",
+        "idMembersVoted": [],
+        "idShort": 65,
+        "idAttachmentCover": null,
+        "idLabels": [],
+        "manualCoverAttachment": false,
+        "name": "@David and his ducks are awesome and super smart and...  he has ducklings! 🐥",
+        "pos": 68607,
+        "shortLink": "Lvmuz4Jb",
+        "isTemplate": false,
+        "badges": {
+            "attachmentsByType": {
+                "trello": {
+                    "board": 0,
+                    "card": 0
+                }
+            },
+            "location": false,
+            "votes": 0,
+            "viewingMemberVoted": false,
+            "subscribed": false,
+            "fogbugz": "",
+            "checkItems": 0,
+            "checkItemsChecked": 0,
+            "checkItemsEarliestDue": null,
+            "comments": 0,
+            "attachments": 0,
+            "description": false,
+            "due": null,
+            "dueComplete": false
+        },
+        "dueComplete": false,
+        "due": null,
+        "idChecklists": [],
+        "idMembers": [],
+        "labels": [],
+        "shortUrl": "https://trello.com/c/Lvmuz4Jb",
+        "subscribed": false,
+        "url": "https://trello.com/c/Lvmuz4Jb/65-david-and-his-ducks-are-awesome-and-super-smart-and-he-has-ducklings-%F0%9F%90%A5",
+        "cover": {
+            "idAttachment": null,
+            "color": null,
+            "idUploadedBackground": null,
+            "size": "normal",
+            "brightness": "light"
+        }
+    },
+    {
+        "id": "5eb04f3936d4694f9a084415",
+        "checkItemStates": null,
+        "closed": false,
+        "dateLastActivity": "2020-05-04T17:22:01.066Z",
+        "desc": "",
+        "descData": null,
+        "dueReminder": null,
+        "idBoard": "5eb0118da24677822bb3716d",
+        "idList": "5eb0471bd76c7d8498665bc5",
+        "idMembersVoted": [],
+        "idShort": 75,
+        "idAttachmentCover": null,
+        "idLabels": [],
+        "manualCoverAttachment": false,
+        "name": "Nicole, for jumping into CCE and making it beautiful.",
+        "pos": 68863,
+        "shortLink": "GSjS18bj",
+        "isTemplate": false,
+        "badges": {
+            "attachmentsByType": {
+                "trello": {
+                    "board": 0,
+                    "card": 0
+                }
+            },
+            "location": false,
+            "votes": 0,
+            "viewingMemberVoted": false,
+            "subscribed": false,
+            "fogbugz": "",
+            "checkItems": 0,
+            "checkItemsChecked": 0,
+            "checkItemsEarliestDue": null,
+            "comments": 0,
+            "attachments": 0,
+            "description": false,
+            "due": null,
+            "dueComplete": false
+        },
+        "dueComplete": false,
+        "due": null,
+        "idChecklists": [],
+        "idMembers": [
+            "5b92eac8d7982e62c165c918"
+        ],
+        "labels": [],
+        "shortUrl": "https://trello.com/c/GSjS18bj",
+        "subscribed": false,
+        "url": "https://trello.com/c/GSjS18bj/75-nicole-for-jumping-into-cce-and-making-it-beautiful",
+        "cover": {
+            "idAttachment": null,
+            "color": null,
+            "idUploadedBackground": null,
+            "size": "normal",
+            "brightness": "light"
+        }
+    },
+    {
+        "id": "5eb04ef06e2db38db4d5479e",
+        "checkItemStates": null,
+        "closed": false,
+        "dateLastActivity": "2020-05-04T17:24:33.339Z",
+        "desc": "",
+        "descData": null,
+        "dueReminder": null,
+        "idBoard": "5eb0118da24677822bb3716d",
+        "idList": "5eb0471bd76c7d8498665bc5",
+        "idMembersVoted": [],
+        "idShort": 66,
+        "idAttachmentCover": null,
+        "idLabels": [],
+        "manualCoverAttachment": false,
+        "name": "Michal for keeping me on my toes",
+        "pos": 69119,
+        "shortLink": "IJru5m7G",
+        "isTemplate": false,
+        "badges": {
+            "attachmentsByType": {
+                "trello": {
+                    "board": 0,
+                    "card": 0
+                }
+            },
+            "location": false,
+            "votes": 0,
+            "viewingMemberVoted": false,
+            "subscribed": false,
+            "fogbugz": "",
+            "checkItems": 0,
+            "checkItemsChecked": 0,
+            "checkItemsEarliestDue": null,
+            "comments": 0,
+            "attachments": 0,
+            "description": false,
+            "due": null,
+            "dueComplete": false
+        },
+        "dueComplete": false,
+        "due": null,
+        "idChecklists": [],
+        "idMembers": [
+            "55e7be7253a0bb9c99e4cb33"
+        ],
+        "labels": [],
+        "shortUrl": "https://trello.com/c/IJru5m7G",
+        "subscribed": false,
+        "url": "https://trello.com/c/IJru5m7G/66-michal-for-keeping-me-on-my-toes",
+        "cover": {
+            "idAttachment": null,
+            "color": null,
+            "idUploadedBackground": null,
+            "size": "normal",
+            "brightness": "light"
+        }
+    },
+    {
+        "id": "5eb04ed6968451422a0b2b83",
+        "checkItemStates": null,
+        "closed": false,
+        "dateLastActivity": "2020-05-04T17:20:22.970Z",
+        "desc": "",
+        "descData": null,
+        "dueReminder": null,
+        "idBoard": "5eb0118da24677822bb3716d",
+        "idList": "5eb0471bd76c7d8498665bc5",
+        "idMembersVoted": [],
+        "idShort": 63,
+        "idAttachmentCover": null,
+        "idLabels": [],
+        "manualCoverAttachment": false,
+        "name": "@Steve Black for his Friday Social Distancing Sessions!  AWESOME and Enjoyable!  Thank you!",
+        "pos": 69631,
+        "shortLink": "ng48Halj",
+        "isTemplate": false,
+        "badges": {
+            "attachmentsByType": {
+                "trello": {
+                    "board": 0,
+                    "card": 0
+                }
+            },
+            "location": false,
+            "votes": 0,
+            "viewingMemberVoted": false,
+            "subscribed": false,
+            "fogbugz": "",
+            "checkItems": 0,
+            "checkItemsChecked": 0,
+            "checkItemsEarliestDue": null,
+            "comments": 0,
+            "attachments": 0,
+            "description": false,
+            "due": null,
+            "dueComplete": false
+        },
+        "dueComplete": false,
+        "due": null,
+        "idChecklists": [],
+        "idMembers": [],
+        "labels": [],
+        "shortUrl": "https://trello.com/c/ng48Halj",
+        "subscribed": false,
+        "url": "https://trello.com/c/ng48Halj/63-steve-black-for-his-friday-social-distancing-sessions-awesome-and-enjoyable-thank-you",
+        "cover": {
+            "idAttachment": null,
+            "color": null,
+            "idUploadedBackground": null,
+            "size": "normal",
+            "brightness": "light"
+        }
+    },
+    {
+        "id": "5eb04ecbac056417668bcc07",
+        "checkItemStates": null,
+        "closed": false,
+        "dateLastActivity": "2020-05-04T17:20:11.397Z",
+        "desc": "",
+        "descData": null,
+        "dueReminder": null,
+        "idBoard": "5eb0118da24677822bb3716d",
+        "idList": "5eb0471bd76c7d8498665bc5",
+        "idMembersVoted": [],
+        "idShort": 62,
+        "idAttachmentCover": null,
+        "idLabels": [],
+        "manualCoverAttachment": false,
+        "name": "Ben for helping organizing and prioritizing the work in DataOps. It is incredibly helpful.",
+        "pos": 73727,
+        "shortLink": "OS2rXrQ4",
+        "isTemplate": false,
+        "badges": {
+            "attachmentsByType": {
+                "trello": {
+                    "board": 0,
+                    "card": 0
+                }
+            },
+            "location": false,
+            "votes": 0,
+            "viewingMemberVoted": false,
+            "subscribed": false,
+            "fogbugz": "",
+            "checkItems": 0,
+            "checkItemsChecked": 0,
+            "checkItemsEarliestDue": null,
+            "comments": 0,
+            "attachments": 0,
+            "description": false,
+            "due": null,
+            "dueComplete": false
+        },
+        "dueComplete": false,
+        "due": null,
+        "idChecklists": [],
+        "idMembers": [],
+        "labels": [],
+        "shortUrl": "https://trello.com/c/OS2rXrQ4",
+        "subscribed": false,
+        "url": "https://trello.com/c/OS2rXrQ4/62-ben-for-helping-organizing-and-prioritizing-the-work-in-dataops-it-is-incredibly-helpful",
+        "cover": {
+            "idAttachment": null,
+            "color": null,
+            "idUploadedBackground": null,
+            "size": "normal",
+            "brightness": "light"
+        }
+    },
+    {
+        "id": "5eb04f1bbbb4a06d2e9fb28d",
+        "checkItemStates": null,
+        "closed": false,
+        "dateLastActivity": "2020-05-04T17:21:31.852Z",
+        "desc": "",
+        "descData": null,
+        "dueReminder": null,
+        "idBoard": "5eb0118da24677822bb3716d",
+        "idList": "5eb0471bd76c7d8498665bc5",
+        "idMembersVoted": [],
+        "idShort": 70,
+        "idAttachmentCover": null,
+        "idLabels": [],
+        "manualCoverAttachment": false,
+        "name": "Taranveer for helping figure out the factory status progress bar",
+        "pos": 75775,
+        "shortLink": "qgi9QQwt",
+        "isTemplate": false,
+        "badges": {
+            "attachmentsByType": {
+                "trello": {
+                    "board": 0,
+                    "card": 0
+                }
+            },
+            "location": false,
+            "votes": 0,
+            "viewingMemberVoted": false,
+            "subscribed": false,
+            "fogbugz": "",
+            "checkItems": 0,
+            "checkItemsChecked": 0,
+            "checkItemsEarliestDue": null,
+            "comments": 0,
+            "attachments": 0,
+            "description": false,
+            "due": null,
+            "dueComplete": false
+        },
+        "dueComplete": false,
+        "due": null,
+        "idChecklists": [],
+        "idMembers": [],
+        "labels": [],
+        "shortUrl": "https://trello.com/c/qgi9QQwt",
+        "subscribed": false,
+        "url": "https://trello.com/c/qgi9QQwt/70-taranveer-for-helping-figure-out-the-factory-status-progress-bar",
+        "cover": {
+            "idAttachment": null,
+            "color": null,
+            "idUploadedBackground": null,
+            "size": "normal",
+            "brightness": "light"
+        }
+    },
+    {
+        "id": "5eb04f166dd2950f80823340",
+        "checkItemStates": null,
+        "closed": false,
+        "dateLastActivity": "2020-05-04T17:21:26.163Z",
+        "desc": "",
+        "descData": null,
+        "dueReminder": null,
+        "idBoard": "5eb0118da24677822bb3716d",
+        "idList": "5eb0471bd76c7d8498665bc5",
+        "idMembersVoted": [],
+        "idShort": 69,
+        "idAttachmentCover": null,
+        "idLabels": [],
+        "manualCoverAttachment": false,
+        "name": "Thanks to roberto for pairing together though some of the tasks and getting me familiar with more CNP things before he goes on peternity for a while",
+        "pos": 77823,
+        "shortLink": "NLz14hZg",
+        "isTemplate": false,
+        "badges": {
+            "attachmentsByType": {
+                "trello": {
+                    "board": 0,
+                    "card": 0
+                }
+            },
+            "location": false,
+            "votes": 0,
+            "viewingMemberVoted": false,
+            "subscribed": false,
+            "fogbugz": "",
+            "checkItems": 0,
+            "checkItemsChecked": 0,
+            "checkItemsEarliestDue": null,
+            "comments": 0,
+            "attachments": 0,
+            "description": false,
+            "due": null,
+            "dueComplete": false
+        },
+        "dueComplete": false,
+        "due": null,
+        "idChecklists": [],
+        "idMembers": [
+            "5432b86acaf5501decb000a0"
+        ],
+        "labels": [],
+        "shortUrl": "https://trello.com/c/NLz14hZg",
+        "subscribed": false,
+        "url": "https://trello.com/c/NLz14hZg/69-thanks-to-roberto-for-pairing-together-though-some-of-the-tasks-and-getting-me-familiar-with-more-cnp-things-before-he-goes-on-p",
+        "cover": {
+            "idAttachment": null,
+            "color": null,
+            "idUploadedBackground": null,
+            "size": "normal",
+            "brightness": "light"
+        }
+    },
+    {
+        "id": "5eb04ec5ff4a3b04105a32f3",
+        "checkItemStates": null,
+        "closed": false,
+        "dateLastActivity": "2020-05-04T17:20:12.019Z",
+        "desc": "",
+        "descData": null,
+        "dueReminder": null,
+        "idBoard": "5eb0118da24677822bb3716d",
+        "idList": "5eb0471bd76c7d8498665bc5",
+        "idMembersVoted": [],
+        "idShort": 61,
+        "idAttachmentCover": null,
+        "idLabels": [],
+        "manualCoverAttachment": false,
+        "name": "Taranveer killed it this iteration by integrating zenhub with the instrumentation app.",
+        "pos": 81919,
+        "shortLink": "BqTETIEe",
+        "isTemplate": false,
+        "badges": {
+            "attachmentsByType": {
+                "trello": {
+                    "board": 0,
+                    "card": 0
+                }
+            },
+            "location": false,
+            "votes": 0,
+            "viewingMemberVoted": false,
+            "subscribed": false,
+            "fogbugz": "",
+            "checkItems": 0,
+            "checkItemsChecked": 0,
+            "checkItemsEarliestDue": null,
+            "comments": 0,
+            "attachments": 0,
+            "description": false,
+            "due": null,
+            "dueComplete": false
+        },
+        "dueComplete": false,
+        "due": null,
+        "idChecklists": [],
+        "idMembers": [],
+        "labels": [],
+        "shortUrl": "https://trello.com/c/BqTETIEe",
+        "subscribed": false,
+        "url": "https://trello.com/c/BqTETIEe/61-taranveer-killed-it-this-iteration-by-integrating-zenhub-with-the-instrumentation-app",
+        "cover": {
+            "idAttachment": null,
+            "color": null,
+            "idUploadedBackground": null,
+            "size": "normal",
+            "brightness": "light"
+        }
+    },
+    {
+        "id": "5eb04f550d4b0d608667690e",
+        "checkItemStates": null,
+        "closed": false,
+        "dateLastActivity": "2020-05-04T17:22:29.083Z",
+        "desc": "",
+        "descData": null,
+        "dueReminder": null,
+        "idBoard": "5eb0118da24677822bb3716d",
+        "idList": "5eb0471bd76c7d8498665bc5",
+        "idMembersVoted": [],
+        "idShort": 77,
+        "idAttachmentCover": null,
+        "idLabels": [],
+        "manualCoverAttachment": false,
+        "name": "@terri & @girish getting good",
+        "pos": 90111,
+        "shortLink": "z9WqqcMI",
+        "isTemplate": false,
+        "badges": {
+            "attachmentsByType": {
+                "trello": {
+                    "board": 0,
+                    "card": 0
+                }
+            },
+            "location": false,
+            "votes": 0,
+            "viewingMemberVoted": false,
+            "subscribed": false,
+            "fogbugz": "",
+            "checkItems": 0,
+            "checkItemsChecked": 0,
+            "checkItemsEarliestDue": null,
+            "comments": 0,
+            "attachments": 0,
+            "description": false,
+            "due": null,
+            "dueComplete": false
+        },
+        "dueComplete": false,
+        "due": null,
+        "idChecklists": [],
+        "idMembers": [],
+        "labels": [],
+        "shortUrl": "https://trello.com/c/z9WqqcMI",
+        "subscribed": false,
+        "url": "https://trello.com/c/z9WqqcMI/77-terri-girish-getting-good",
+        "cover": {
+            "idAttachment": null,
+            "color": null,
+            "idUploadedBackground": null,
+            "size": "normal",
+            "brightness": "light"
+        }
+    },
+    {
+        "id": "5eb04eafa18b118d4f9af004",
+        "checkItemStates": null,
+        "closed": false,
+        "dateLastActivity": "2020-05-04T17:19:43.861Z",
+        "desc": "",
+        "descData": null,
+        "dueReminder": null,
+        "idBoard": "5eb0118da24677822bb3716d",
+        "idList": "5eb0471bd76c7d8498665bc5",
+        "idMembersVoted": [],
+        "idShort": 59,
+        "idAttachmentCover": null,
+        "idLabels": [],
+        "manualCoverAttachment": false,
+        "name": "@Raf is awesome and happy and always positive and a joy to work with. :)",
+        "pos": 98303,
+        "shortLink": "nOBqh2LP",
+        "isTemplate": false,
+        "badges": {
+            "attachmentsByType": {
+                "trello": {
+                    "board": 0,
+                    "card": 0
+                }
+            },
+            "location": false,
+            "votes": 0,
+            "viewingMemberVoted": false,
+            "subscribed": false,
+            "fogbugz": "",
+            "checkItems": 0,
+            "checkItemsChecked": 0,
+            "checkItemsEarliestDue": null,
+            "comments": 0,
+            "attachments": 0,
+            "description": false,
+            "due": null,
+            "dueComplete": false
+        },
+        "dueComplete": false,
+        "due": null,
+        "idChecklists": [],
+        "idMembers": [],
+        "labels": [],
+        "shortUrl": "https://trello.com/c/nOBqh2LP",
+        "subscribed": false,
+        "url": "https://trello.com/c/nOBqh2LP/59-raf-is-awesome-and-happy-and-always-positive-and-a-joy-to-work-with",
+        "cover": {
+            "idAttachment": null,
+            "color": null,
+            "idUploadedBackground": null,
+            "size": "normal",
+            "brightness": "light"
+        }
+    },
+    {
+        "id": "5eb04ef889c62f1702bbbd36",
+        "checkItemStates": null,
+        "closed": false,
+        "dateLastActivity": "2020-05-04T17:20:56.505Z",
+        "desc": "",
+        "descData": null,
+        "dueReminder": null,
+        "idBoard": "5eb0118da24677822bb3716d",
+        "idList": "5eb0471bd76c7d8498665bc5",
+        "idMembersVoted": [],
+        "idShort": 67,
+        "idAttachmentCover": null,
+        "idLabels": [],
+        "manualCoverAttachment": false,
+        "name": "T for always being available and willing to jump on a call.",
+        "pos": 106495,
+        "shortLink": "dyQDJHZ1",
+        "isTemplate": false,
+        "badges": {
+            "attachmentsByType": {
+                "trello": {
+                    "board": 0,
+                    "card": 0
+                }
+            },
+            "location": false,
+            "votes": 0,
+            "viewingMemberVoted": false,
+            "subscribed": false,
+            "fogbugz": "",
+            "checkItems": 0,
+            "checkItemsChecked": 0,
+            "checkItemsEarliestDue": null,
+            "comments": 0,
+            "attachments": 0,
+            "description": false,
+            "due": null,
+            "dueComplete": false
+        },
+        "dueComplete": false,
+        "due": null,
+        "idChecklists": [],
+        "idMembers": [],
+        "labels": [],
+        "shortUrl": "https://trello.com/c/dyQDJHZ1",
+        "subscribed": false,
+        "url": "https://trello.com/c/dyQDJHZ1/67-t-for-always-being-available-and-willing-to-jump-on-a-call",
+        "cover": {
+            "idAttachment": null,
+            "color": null,
+            "idUploadedBackground": null,
+            "size": "normal",
+            "brightness": "light"
+        }
+    },
+    {
+        "id": "5eb04f357298eb5177a22085",
+        "checkItemStates": null,
+        "closed": false,
+        "dateLastActivity": "2020-05-04T17:21:57.301Z",
+        "desc": "",
+        "descData": null,
+        "dueReminder": null,
+        "idBoard": "5eb0118da24677822bb3716d",
+        "idList": "5eb0471bd76c7d8498665bc5",
+        "idMembersVoted": [],
+        "idShort": 74,
+        "idAttachmentCover": null,
+        "idLabels": [],
+        "manualCoverAttachment": false,
+        "name": "Fantastic team that brought CS360 to life!!  <3",
+        "pos": 107519,
+        "shortLink": "0OOk90en",
+        "isTemplate": false,
+        "badges": {
+            "attachmentsByType": {
+                "trello": {
+                    "board": 0,
+                    "card": 0
+                }
+            },
+            "location": false,
+            "votes": 0,
+            "viewingMemberVoted": false,
+            "subscribed": false,
+            "fogbugz": "",
+            "checkItems": 0,
+            "checkItemsChecked": 0,
+            "checkItemsEarliestDue": null,
+            "comments": 0,
+            "attachments": 0,
+            "description": false,
+            "due": null,
+            "dueComplete": false
+        },
+        "dueComplete": false,
+        "due": null,
+        "idChecklists": [],
+        "idMembers": [],
+        "labels": [],
+        "shortUrl": "https://trello.com/c/0OOk90en",
+        "subscribed": false,
+        "url": "https://trello.com/c/0OOk90en/74-fantastic-team-that-brought-cs360-to-life-3",
+        "cover": {
+            "idAttachment": null,
+            "color": null,
+            "idUploadedBackground": null,
+            "size": "normal",
+            "brightness": "light"
+        }
+    },
+    {
+        "id": "5eb04f32dd6ebc73ae95d7d5",
+        "checkItemStates": null,
+        "closed": false,
+        "dateLastActivity": "2020-05-04T17:21:54.167Z",
+        "desc": "",
+        "descData": null,
+        "dueReminder": null,
+        "idBoard": "5eb0118da24677822bb3716d",
+        "idList": "5eb0471bd76c7d8498665bc5",
+        "idMembersVoted": [],
+        "idShort": 73,
+        "idAttachmentCover": null,
+        "idLabels": [],
+        "manualCoverAttachment": false,
+        "name": "Girish and Dave Ross for all the help with the changes needed for some of the items accomplished, Thank you!",
+        "pos": 108543,
+        "shortLink": "Tzf559r2",
+        "isTemplate": false,
+        "badges": {
+            "attachmentsByType": {
+                "trello": {
+                    "board": 0,
+                    "card": 0
+                }
+            },
+            "location": false,
+            "votes": 0,
+            "viewingMemberVoted": false,
+            "subscribed": false,
+            "fogbugz": "",
+            "checkItems": 0,
+            "checkItemsChecked": 0,
+            "checkItemsEarliestDue": null,
+            "comments": 0,
+            "attachments": 0,
+            "description": false,
+            "due": null,
+            "dueComplete": false
+        },
+        "dueComplete": false,
+        "due": null,
+        "idChecklists": [],
+        "idMembers": [],
+        "labels": [],
+        "shortUrl": "https://trello.com/c/Tzf559r2",
+        "subscribed": false,
+        "url": "https://trello.com/c/Tzf559r2/73-girish-and-dave-ross-for-all-the-help-with-the-changes-needed-for-some-of-the-items-accomplished-thank-you",
+        "cover": {
+            "idAttachment": null,
+            "color": null,
+            "idUploadedBackground": null,
+            "size": "normal",
+            "brightness": "light"
+        }
+    },
+    {
+        "id": "5eb04f2a3b04480a3cbd40c0",
+        "checkItemStates": null,
+        "closed": false,
+        "dateLastActivity": "2020-05-04T17:21:46.190Z",
+        "desc": "",
+        "descData": null,
+        "dueReminder": null,
+        "idBoard": "5eb0118da24677822bb3716d",
+        "idList": "5eb0471bd76c7d8498665bc5",
+        "idMembersVoted": [],
+        "idShort": 71,
+        "idAttachmentCover": null,
+        "idLabels": [],
+        "manualCoverAttachment": false,
+        "name": "Ben for making sure we were ready for CS360 go live and coordinating the blog and email",
+        "pos": 110591,
+        "shortLink": "XuuYR7OF",
+        "isTemplate": false,
+        "badges": {
+            "attachmentsByType": {
+                "trello": {
+                    "board": 0,
+                    "card": 0
+                }
+            },
+            "location": false,
+            "votes": 0,
+            "viewingMemberVoted": false,
+            "subscribed": false,
+            "fogbugz": "",
+            "checkItems": 0,
+            "checkItemsChecked": 0,
+            "checkItemsEarliestDue": null,
+            "comments": 0,
+            "attachments": 0,
+            "description": false,
+            "due": null,
+            "dueComplete": false
+        },
+        "dueComplete": false,
+        "due": null,
+        "idChecklists": [],
+        "idMembers": [],
+        "labels": [],
+        "shortUrl": "https://trello.com/c/XuuYR7OF",
+        "subscribed": false,
+        "url": "https://trello.com/c/XuuYR7OF/71-ben-for-making-sure-we-were-ready-for-cs360-go-live-and-coordinating-the-blog-and-email",
+        "cover": {
+            "idAttachment": null,
+            "color": null,
+            "idUploadedBackground": null,
+            "size": "normal",
+            "brightness": "light"
+        }
+    },
+    {
+        "id": "5eb04ec425dc334832fdde9e",
+        "checkItemStates": null,
+        "closed": false,
+        "dateLastActivity": "2020-05-04T17:20:04.409Z",
+        "desc": "",
+        "descData": null,
+        "dueReminder": null,
+        "idBoard": "5eb0118da24677822bb3716d",
+        "idList": "5eb0471bd76c7d8498665bc5",
+        "idMembersVoted": [],
+        "idShort": 60,
+        "idAttachmentCover": null,
+        "idLabels": [],
+        "manualCoverAttachment": false,
+        "name": "Raf + T => Sorting out problems that crop up in SABA DW API + Airflow",
+        "pos": 114687,
+        "shortLink": "MzwqpYnQ",
+        "isTemplate": false,
+        "badges": {
+            "attachmentsByType": {
+                "trello": {
+                    "board": 0,
+                    "card": 0
+                }
+            },
+            "location": false,
+            "votes": 0,
+            "viewingMemberVoted": false,
+            "subscribed": false,
+            "fogbugz": "",
+            "checkItems": 0,
+            "checkItemsChecked": 0,
+            "checkItemsEarliestDue": null,
+            "comments": 0,
+            "attachments": 0,
+            "description": false,
+            "due": null,
+            "dueComplete": false
+        },
+        "dueComplete": false,
+        "due": null,
+        "idChecklists": [],
+        "idMembers": [],
+        "labels": [],
+        "shortUrl": "https://trello.com/c/MzwqpYnQ",
+        "subscribed": false,
+        "url": "https://trello.com/c/MzwqpYnQ/60-raf-t-sorting-out-problems-that-crop-up-in-saba-dw-api-airflow",
+        "cover": {
+            "idAttachment": null,
+            "color": null,
+            "idUploadedBackground": null,
+            "size": "normal",
+            "brightness": "light"
+        }
+    },
+    {
+        "id": "5eb04f5e86660a2e0f0dcddc",
+        "checkItemStates": null,
+        "closed": false,
+        "dateLastActivity": "2020-05-04T17:26:01.737Z",
+        "desc": "",
+        "descData": null,
+        "dueReminder": null,
+        "idBoard": "5eb0118da24677822bb3716d",
+        "idList": "5eb0471bd76c7d8498665bc5",
+        "idMembersVoted": [],
+        "idShort": 78,
+        "idAttachmentCover": null,
+        "idLabels": [],
+        "manualCoverAttachment": false,
+        "name": "Nicole => Outstanding designs as always for all our apps and being a pleasure to work with",
+        "pos": 122879,
+        "shortLink": "qy9LUKk7",
+        "isTemplate": false,
+        "badges": {
+            "attachmentsByType": {
+                "trello": {
+                    "board": 0,
+                    "card": 0
+                }
+            },
+            "location": false,
+            "votes": 0,
+            "viewingMemberVoted": false,
+            "subscribed": false,
+            "fogbugz": "",
+            "checkItems": 0,
+            "checkItemsChecked": 0,
+            "checkItemsEarliestDue": null,
+            "comments": 0,
+            "attachments": 0,
+            "description": false,
+            "due": null,
+            "dueComplete": false
+        },
+        "dueComplete": false,
+        "due": null,
+        "idChecklists": [],
+        "idMembers": [],
+        "labels": [],
+        "shortUrl": "https://trello.com/c/qy9LUKk7",
+        "subscribed": false,
+        "url": "https://trello.com/c/qy9LUKk7/78-nicole-outstanding-designs-as-always-for-all-our-apps-and-being-a-pleasure-to-work-with",
+        "cover": {
+            "idAttachment": null,
+            "color": null,
+            "idUploadedBackground": null,
+            "size": "normal",
+            "brightness": "light"
+        }
+    },
+    {
+        "id": "5eb04ea922e3a5464465e3ef",
+        "checkItemStates": null,
+        "closed": false,
+        "dateLastActivity": "2020-05-04T17:19:37.589Z",
+        "desc": "",
+        "descData": null,
+        "dueReminder": null,
+        "idBoard": "5eb0118da24677822bb3716d",
+        "idList": "5eb0471bd76c7d8498665bc5",
+        "idMembersVoted": [],
+        "idShort": 58,
+        "idAttachmentCover": null,
+        "idLabels": [],
+        "manualCoverAttachment": false,
+        "name": "T + Nicole => CS360 Live",
+        "pos": 131071,
+        "shortLink": "HlpIztwX",
+        "isTemplate": false,
+        "badges": {
+            "attachmentsByType": {
+                "trello": {
+                    "board": 0,
+                    "card": 0
+                }
+            },
+            "location": false,
+            "votes": 0,
+            "viewingMemberVoted": false,
+            "subscribed": false,
+            "fogbugz": "",
+            "checkItems": 0,
+            "checkItemsChecked": 0,
+            "checkItemsEarliestDue": null,
+            "comments": 0,
+            "attachments": 0,
+            "description": false,
+            "due": null,
+            "dueComplete": false
+        },
+        "dueComplete": false,
+        "due": null,
+        "idChecklists": [],
+        "idMembers": [],
+        "labels": [],
+        "shortUrl": "https://trello.com/c/HlpIztwX",
+        "subscribed": false,
+        "url": "https://trello.com/c/HlpIztwX/58-t-nicole-cs360-live",
+        "cover": {
+            "idAttachment": null,
+            "color": null,
+            "idUploadedBackground": null,
+            "size": "normal",
+            "brightness": "light"
+        }
+    },
+    {
+        "id": "5eb04f11ef503552248b1c1f",
+        "checkItemStates": null,
+        "closed": false,
+        "dateLastActivity": "2020-05-04T17:22:16.578Z",
+        "desc": "",
+        "descData": null,
+        "dueReminder": null,
+        "idBoard": "5eb0118da24677822bb3716d",
+        "idList": "5eb0471bd76c7d8498665bc5",
+        "idMembersVoted": [],
+        "idShort": 68,
+        "idAttachmentCover": null,
+        "idLabels": [],
+        "manualCoverAttachment": false,
+        "name": "@Vanderpyle and his MacBook duck.",
+        "pos": 196607,
+        "shortLink": "ZO1jYoXO",
+        "isTemplate": false,
+        "badges": {
+            "attachmentsByType": {
+                "trello": {
+                    "board": 0,
+                    "card": 0
+                }
+            },
+            "location": false,
+            "votes": 0,
+            "viewingMemberVoted": false,
+            "subscribed": false,
+            "fogbugz": "",
+            "checkItems": 0,
+            "checkItemsChecked": 0,
+            "checkItemsEarliestDue": null,
+            "comments": 1,
+            "attachments": 0,
+            "description": false,
+            "due": null,
+            "dueComplete": false
+        },
+        "dueComplete": false,
+        "due": null,
+        "idChecklists": [],
+        "idMembers": [],
+        "labels": [],
+        "shortUrl": "https://trello.com/c/ZO1jYoXO",
+        "subscribed": false,
+        "url": "https://trello.com/c/ZO1jYoXO/68-vanderpyle-and-his-macbook-duck",
+        "cover": {
+            "idAttachment": null,
+            "color": null,
+            "idUploadedBackground": null,
+            "size": "normal",
+            "brightness": "light"
+        }
+    },
+    {
+        "id": "5eb04fb198a2031877b1be2f",
+        "checkItemStates": null,
+        "closed": false,
+        "dateLastActivity": "2020-05-04T17:24:01.546Z",
+        "desc": "",
+        "descData": null,
+        "dueReminder": null,
+        "idBoard": "5eb0118da24677822bb3716d",
+        "idList": "5eb0471bd76c7d8498665bc5",
+        "idMembersVoted": [],
+        "idShort": 80,
+        "idAttachmentCover": null,
+        "idLabels": [],
+        "manualCoverAttachment": false,
+        "name": "David Bowen for all the awesomeness he brings and just being there to chat about anything and everything <3",
+        "pos": 229375,
+        "shortLink": "ZfxHql33",
+        "isTemplate": false,
+        "badges": {
+            "attachmentsByType": {
+                "trello": {
+                    "board": 0,
+                    "card": 0
+                }
+            },
+            "location": false,
+            "votes": 0,
+            "viewingMemberVoted": false,
+            "subscribed": false,
+            "fogbugz": "",
+            "checkItems": 0,
+            "checkItemsChecked": 0,
+            "checkItemsEarliestDue": null,
+            "comments": 0,
+            "attachments": 0,
+            "description": false,
+            "due": null,
+            "dueComplete": false
+        },
+        "dueComplete": false,
+        "due": null,
+        "idChecklists": [],
+        "idMembers": [],
+        "labels": [],
+        "shortUrl": "https://trello.com/c/ZfxHql33",
+        "subscribed": false,
+        "url": "https://trello.com/c/ZfxHql33/80-david-bowen-for-all-the-awesomeness-he-brings-and-just-being-there-to-chat-about-anything-and-everything-3",
+        "cover": {
+            "idAttachment": null,
+            "color": null,
+            "idUploadedBackground": null,
+            "size": "normal",
+            "brightness": "light"
+        }
+    },
+    {
+        "id": "5eb04fc2914707178530e8dd",
+        "checkItemStates": null,
+        "closed": false,
+        "dateLastActivity": "2020-05-04T17:24:18.925Z",
+        "desc": "",
+        "descData": null,
+        "dueReminder": null,
+        "idBoard": "5eb0118da24677822bb3716d",
+        "idList": "5eb0471bd76c7d8498665bc5",
+        "idMembersVoted": [],
+        "idShort": 81,
+        "idAttachmentCover": null,
+        "idLabels": [],
+        "manualCoverAttachment": false,
+        "name": "Josh for diving into more and more infra-related efforts.",
+        "pos": 245759,
+        "shortLink": "TpMdTWjU",
+        "isTemplate": false,
+        "badges": {
+            "attachmentsByType": {
+                "trello": {
+                    "board": 0,
+                    "card": 0
+                }
+            },
+            "location": false,
+            "votes": 0,
+            "viewingMemberVoted": false,
+            "subscribed": false,
+            "fogbugz": "",
+            "checkItems": 0,
+            "checkItemsChecked": 0,
+            "checkItemsEarliestDue": null,
+            "comments": 0,
+            "attachments": 0,
+            "description": false,
+            "due": null,
+            "dueComplete": false
+        },
+        "dueComplete": false,
+        "due": null,
+        "idChecklists": [],
+        "idMembers": [],
+        "labels": [],
+        "shortUrl": "https://trello.com/c/TpMdTWjU",
+        "subscribed": false,
+        "url": "https://trello.com/c/TpMdTWjU/81-josh-for-diving-into-more-and-more-infra-related-efforts",
+        "cover": {
+            "idAttachment": null,
+            "color": null,
+            "idUploadedBackground": null,
+            "size": "normal",
+            "brightness": "light"
+        }
+    },
+    {
+        "id": "5eb04facaf3b8f82b54b388e",
+        "checkItemStates": null,
+        "closed": false,
+        "dateLastActivity": "2020-05-04T17:23:56.824Z",
+        "desc": "",
+        "descData": null,
+        "dueReminder": null,
+        "idBoard": "5eb0118da24677822bb3716d",
+        "idList": "5eb0471bd76c7d8498665bc5",
+        "idMembersVoted": [],
+        "idShort": 79,
+        "idAttachmentCover": null,
+        "idLabels": [],
+        "manualCoverAttachment": false,
+        "name": "Davis for PS360 r3 design ramp & influence.",
+        "pos": 262143,
+        "shortLink": "W85mAbHV",
+        "isTemplate": false,
+        "badges": {
+            "attachmentsByType": {
+                "trello": {
+                    "board": 0,
+                    "card": 0
+                }
+            },
+            "location": false,
+            "votes": 0,
+            "viewingMemberVoted": false,
+            "subscribed": false,
+            "fogbugz": "",
+            "checkItems": 0,
+            "checkItemsChecked": 0,
+            "checkItemsEarliestDue": null,
+            "comments": 0,
+            "attachments": 0,
+            "description": false,
+            "due": null,
+            "dueComplete": false
+        },
+        "dueComplete": false,
+        "due": null,
+        "idChecklists": [],
+        "idMembers": [],
+        "labels": [],
+        "shortUrl": "https://trello.com/c/W85mAbHV",
+        "subscribed": false,
+        "url": "https://trello.com/c/W85mAbHV/79-davis-for-ps360-r3-design-ramp-influence",
+        "cover": {
+            "idAttachment": null,
+            "color": null,
+            "idUploadedBackground": null,
+            "size": "normal",
+            "brightness": "light"
+        }
+    },
+    {
+        "id": "5eb013aa9e06e415a1f86952",
+        "checkItemStates": null,
+        "closed": false,
+        "dateLastActivity": "2020-05-04T13:08:37.820Z",
+        "desc": "",
+        "descData": null,
+        "dueReminder": null,
+        "idBoard": "5eb0118da24677822bb3716d",
+        "idList": "5eb0118da24677822bb3716f",
+        "idMembersVoted": [],
+        "idShort": 52,
+        "idAttachmentCover": null,
+        "idLabels": [
+            "5eb0118da24677822bb371ec"
+        ],
+        "manualCoverAttachment": false,
+        "name": "Name one bold idea or suggestion that could improve a pain point in your next iteration",
+        "pos": 32767.5,
+        "shortLink": "BNaicSib",
+        "isTemplate": false,
+        "badges": {
+            "attachmentsByType": {
+                "trello": {
+                    "board": 0,
+                    "card": 0
+                }
+            },
+            "location": false,
+            "votes": 0,
+            "viewingMemberVoted": false,
+            "subscribed": false,
+            "fogbugz": "",
+            "checkItems": 0,
+            "checkItemsChecked": 0,
+            "checkItemsEarliestDue": null,
+            "comments": 0,
+            "attachments": 0,
+            "description": false,
+            "due": null,
+            "dueComplete": false
+        },
+        "dueComplete": false,
+        "due": null,
+        "idChecklists": [],
+        "idMembers": [],
+        "labels": [
+            {
+                "id": "5eb0118da24677822bb371ec",
+                "idBoard": "5eb0118da24677822bb3716d",
+                "name": "Dare",
+                "color": "green"
+            }
+        ],
+        "shortUrl": "https://trello.com/c/BNaicSib",
+        "subscribed": false,
+        "url": "https://trello.com/c/BNaicSib/52-name-one-bold-idea-or-suggestion-that-could-improve-a-pain-point-in-your-next-iteration",
+        "cover": {
+            "idAttachment": null,
+            "color": null,
+            "idUploadedBackground": null,
+            "size": "normal",
+            "brightness": "light"
+        }
+    },
+    {
+        "id": "5eb0509c205f690a37662a51",
+        "checkItemStates": null,
+        "closed": false,
+        "dateLastActivity": "2020-05-04T18:18:29.172Z",
+        "desc": "",
+        "descData": null,
+        "dueReminder": null,
+        "idBoard": "5eb0118da24677822bb3716d",
+        "idList": "5eb0118da24677822bb3716f",
+        "idMembersVoted": [],
+        "idShort": 85,
+        "idAttachmentCover": null,
+        "idLabels": [
+            "5eb0118da24677822bb371ec"
+        ],
+        "manualCoverAttachment": false,
+        "name": "SABA DW Token distribution - we had yet another instance of leaks today.",
+        "pos": 49151.5,
+        "shortLink": "2QwvNgnd",
+        "isTemplate": false,
+        "badges": {
+            "attachmentsByType": {
+                "trello": {
+                    "board": 0,
+                    "card": 0
+                }
+            },
+            "location": false,
+            "votes": 0,
+            "viewingMemberVoted": false,
+            "subscribed": true,
+            "fogbugz": "",
+            "checkItems": 0,
+            "checkItemsChecked": 0,
+            "checkItemsEarliestDue": null,
+            "comments": 3,
+            "attachments": 0,
+            "description": false,
+            "due": null,
+            "dueComplete": false
+        },
+        "dueComplete": false,
+        "due": null,
+        "idChecklists": [],
+        "idMembers": [],
+        "labels": [
+            {
+                "id": "5eb0118da24677822bb371ec",
+                "idBoard": "5eb0118da24677822bb3716d",
+                "name": "Dare",
+                "color": "green"
+            }
+        ],
+        "shortUrl": "https://trello.com/c/2QwvNgnd",
+        "subscribed": true,
+        "url": "https://trello.com/c/2QwvNgnd/85-saba-dw-token-distribution-we-had-yet-another-instance-of-leaks-today",
+        "cover": {
+            "idAttachment": null,
+            "color": null,
+            "idUploadedBackground": null,
+            "size": "normal",
+            "brightness": "light"
+        }
+    },
+    {
+        "id": "5eb05156f76efa51c419698a",
+        "checkItemStates": null,
+        "closed": false,
+        "dateLastActivity": "2020-05-04T18:16:41.788Z",
+        "desc": "",
+        "descData": null,
+        "dueReminder": null,
+        "idBoard": "5eb0118da24677822bb3716d",
+        "idList": "5eb0118da24677822bb3716f",
+        "idMembersVoted": [],
+        "idShort": 102,
+        "idAttachmentCover": null,
+        "idLabels": [
+            "5eb0118da24677822bb371ec"
+        ],
+        "manualCoverAttachment": false,
+        "name": "Data lineage and cataloging for DW. Starting from Usage data.",
+        "pos": 131071.5,
+        "shortLink": "mciZSkGh",
+        "isTemplate": false,
+        "badges": {
+            "attachmentsByType": {
+                "trello": {
+                    "board": 0,
+                    "card": 0
+                }
+            },
+            "location": false,
+            "votes": 0,
+            "viewingMemberVoted": false,
+            "subscribed": false,
+            "fogbugz": "",
+            "checkItems": 0,
+            "checkItemsChecked": 0,
+            "checkItemsEarliestDue": null,
+            "comments": 3,
+            "attachments": 0,
+            "description": false,
+            "due": null,
+            "dueComplete": false
+        },
+        "dueComplete": false,
+        "due": null,
+        "idChecklists": [],
+        "idMembers": [],
+        "labels": [
+            {
+                "id": "5eb0118da24677822bb371ec",
+                "idBoard": "5eb0118da24677822bb3716d",
+                "name": "Dare",
+                "color": "green"
+            }
+        ],
+        "shortUrl": "https://trello.com/c/mciZSkGh",
+        "subscribed": false,
+        "url": "https://trello.com/c/mciZSkGh/102-data-lineage-and-cataloging-for-dw-starting-from-usage-data",
+        "cover": {
+            "idAttachment": null,
+            "color": null,
+            "idUploadedBackground": null,
+            "size": "normal",
+            "brightness": "light"
+        }
+    },
+    {
+        "id": "5eb0515d685d4801a590cf43",
+        "checkItemStates": null,
+        "closed": false,
+        "dateLastActivity": "2020-05-04T17:34:18.103Z",
+        "desc": "",
+        "descData": null,
+        "dueReminder": null,
+        "idBoard": "5eb0118da24677822bb3716d",
+        "idList": "5eb0118da24677822bb3716f",
+        "idMembersVoted": [],
+        "idShort": 104,
+        "idAttachmentCover": null,
+        "idLabels": [
+            "5eb0118da24677822bb371ec"
+        ],
+        "manualCoverAttachment": false,
+        "name": "Methodical planning can help drive better focus.",
+        "pos": 147455.5,
+        "shortLink": "Lv4Dpcv4",
+        "isTemplate": false,
+        "badges": {
+            "attachmentsByType": {
+                "trello": {
+                    "board": 0,
+                    "card": 0
+                }
+            },
+            "location": false,
+            "votes": 0,
+            "viewingMemberVoted": false,
+            "subscribed": false,
+            "fogbugz": "",
+            "checkItems": 0,
+            "checkItemsChecked": 0,
+            "checkItemsEarliestDue": null,
+            "comments": 0,
+            "attachments": 0,
+            "description": false,
+            "due": null,
+            "dueComplete": false
+        },
+        "dueComplete": false,
+        "due": null,
+        "idChecklists": [],
+        "idMembers": [],
+        "labels": [
+            {
+                "id": "5eb0118da24677822bb371ec",
+                "idBoard": "5eb0118da24677822bb3716d",
+                "name": "Dare",
+                "color": "green"
+            }
+        ],
+        "shortUrl": "https://trello.com/c/Lv4Dpcv4",
+        "subscribed": false,
+        "url": "https://trello.com/c/Lv4Dpcv4/104-methodical-planning-can-help-drive-better-focus",
+        "cover": {
+            "idAttachment": null,
+            "color": null,
+            "idUploadedBackground": null,
+            "size": "normal",
+            "brightness": "light"
+        }
+    },
+    {
+        "id": "5eb0513d93106c80f7745847",
+        "checkItemStates": null,
+        "closed": false,
+        "dateLastActivity": "2020-05-04T17:35:20.392Z",
+        "desc": "",
+        "descData": null,
+        "dueReminder": null,
+        "idBoard": "5eb0118da24677822bb3716d",
+        "idList": "5eb0118da24677822bb3716f",
+        "idMembersVoted": [],
+        "idShort": 100,
+        "idAttachmentCover": null,
+        "idLabels": [
+            "5eb0118da24677822bb371ec"
+        ],
+        "manualCoverAttachment": false,
+        "name": "Stop with the requests to have users removed from S360.  It's dead.",
+        "pos": 163839.5,
+        "shortLink": "KBkrf9EH",
+        "isTemplate": false,
+        "badges": {
+            "attachmentsByType": {
+                "trello": {
+                    "board": 0,
+                    "card": 0
+                }
+            },
+            "location": false,
+            "votes": 0,
+            "viewingMemberVoted": false,
+            "subscribed": false,
+            "fogbugz": "",
+            "checkItems": 0,
+            "checkItemsChecked": 0,
+            "checkItemsEarliestDue": null,
+            "comments": 0,
+            "attachments": 0,
+            "description": false,
+            "due": null,
+            "dueComplete": false
+        },
+        "dueComplete": false,
+        "due": null,
+        "idChecklists": [],
+        "idMembers": [],
+        "labels": [
+            {
+                "id": "5eb0118da24677822bb371ec",
+                "idBoard": "5eb0118da24677822bb3716d",
+                "name": "Dare",
+                "color": "green"
+            }
+        ],
+        "shortUrl": "https://trello.com/c/KBkrf9EH",
+        "subscribed": false,
+        "url": "https://trello.com/c/KBkrf9EH/100-stop-with-the-requests-to-have-users-removed-from-s360-its-dead",
+        "cover": {
+            "idAttachment": null,
+            "color": null,
+            "idUploadedBackground": null,
+            "size": "normal",
+            "brightness": "light"
+        }
+    },
+    {
+        "id": "5eb0518096e9dc4966fd8599",
+        "checkItemStates": null,
+        "closed": false,
+        "dateLastActivity": "2020-05-04T17:34:19.151Z",
+        "desc": "",
+        "descData": null,
+        "dueReminder": null,
+        "idBoard": "5eb0118da24677822bb3716d",
+        "idList": "5eb0118da24677822bb3716f",
+        "idMembersVoted": [],
+        "idShort": 106,
+        "idAttachmentCover": null,
+        "idLabels": [
+            "5eb0118da24677822bb371ec"
+        ],
+        "manualCoverAttachment": false,
+        "name": "Reduce the L+A calls?",
+        "pos": 196607.5,
+        "shortLink": "DRBwgWXk",
+        "isTemplate": false,
+        "badges": {
+            "attachmentsByType": {
+                "trello": {
+                    "board": 0,
+                    "card": 0
+                }
+            },
+            "location": false,
+            "votes": 0,
+            "viewingMemberVoted": false,
+            "subscribed": false,
+            "fogbugz": "",
+            "checkItems": 0,
+            "checkItemsChecked": 0,
+            "checkItemsEarliestDue": null,
+            "comments": 0,
+            "attachments": 0,
+            "description": false,
+            "due": null,
+            "dueComplete": false
+        },
+        "dueComplete": false,
+        "due": null,
+        "idChecklists": [],
+        "idMembers": [],
+        "labels": [
+            {
+                "id": "5eb0118da24677822bb371ec",
+                "idBoard": "5eb0118da24677822bb3716d",
+                "name": "Dare",
+                "color": "green"
+            }
+        ],
+        "shortUrl": "https://trello.com/c/DRBwgWXk",
+        "subscribed": false,
+        "url": "https://trello.com/c/DRBwgWXk/106-reduce-the-la-calls",
+        "cover": {
+            "idAttachment": null,
+            "color": null,
+            "idUploadedBackground": null,
+            "size": "normal",
+            "brightness": "light"
+        }
+    },
+    {
+        "id": "5eb0514fd3b15e51eb28aeab",
+        "checkItemStates": null,
+        "closed": false,
+        "dateLastActivity": "2020-05-04T17:34:19.638Z",
+        "desc": "",
+        "descData": null,
+        "dueReminder": null,
+        "idBoard": "5eb0118da24677822bb3716d",
+        "idList": "5eb0118da24677822bb3716f",
+        "idMembersVoted": [],
+        "idShort": 101,
+        "idAttachmentCover": null,
+        "idLabels": [
+            "5eb0118da24677822bb371ec"
+        ],
+        "manualCoverAttachment": false,
+        "name": "Upgrade cert manager before more apps start to use it.",
+        "pos": 229375.5,
+        "shortLink": "dKB11LCZ",
+        "isTemplate": false,
+        "badges": {
+            "attachmentsByType": {
+                "trello": {
+                    "board": 0,
+                    "card": 0
+                }
+            },
+            "location": false,
+            "votes": 0,
+            "viewingMemberVoted": false,
+            "subscribed": false,
+            "fogbugz": "",
+            "checkItems": 0,
+            "checkItemsChecked": 0,
+            "checkItemsEarliestDue": null,
+            "comments": 0,
+            "attachments": 0,
+            "description": false,
+            "due": null,
+            "dueComplete": false
+        },
+        "dueComplete": false,
+        "due": null,
+        "idChecklists": [],
+        "idMembers": [],
+        "labels": [
+            {
+                "id": "5eb0118da24677822bb371ec",
+                "idBoard": "5eb0118da24677822bb3716d",
+                "name": "Dare",
+                "color": "green"
+            }
+        ],
+        "shortUrl": "https://trello.com/c/dKB11LCZ",
+        "subscribed": false,
+        "url": "https://trello.com/c/dKB11LCZ/101-upgrade-cert-manager-before-more-apps-start-to-use-it",
+        "cover": {
+            "idAttachment": null,
+            "color": null,
+            "idUploadedBackground": null,
+            "size": "normal",
+            "brightness": "light"
+        }
+    },
+    {
+        "id": "5eb0118da24677822bb37187",
+        "checkItemStates": null,
+        "closed": false,
+        "dateLastActivity": "2020-05-04T12:58:54.754Z",
+        "desc": "",
+        "descData": null,
+        "dueReminder": null,
+        "idBoard": "5eb0118da24677822bb3716d",
+        "idList": "5eb0118da24677822bb37170",
+        "idMembersVoted": [],
+        "idShort": 2,
+        "idAttachmentCover": null,
+        "idLabels": [
+            "5eb0118da24677822bb371ee"
+        ],
+        "manualCoverAttachment": false,
+        "name": "Name one thing you care about that we should be doing but is not happening",
+        "pos": 65535,
+        "shortLink": "3LsoanmF",
+        "isTemplate": false,
+        "badges": {
+            "attachmentsByType": {
+                "trello": {
+                    "board": 0,
+                    "card": 0
+                }
+            },
+            "location": false,
+            "votes": 0,
+            "viewingMemberVoted": false,
+            "subscribed": false,
+            "fogbugz": "",
+            "checkItems": 0,
+            "checkItemsChecked": 0,
+            "checkItemsEarliestDue": null,
+            "comments": 0,
+            "attachments": 0,
+            "description": false,
+            "due": null,
+            "dueComplete": false
+        },
+        "dueComplete": false,
+        "due": null,
+        "idChecklists": [],
+        "idMembers": [],
+        "labels": [
+            {
+                "id": "5eb0118da24677822bb371ee",
+                "idBoard": "5eb0118da24677822bb3716d",
+                "name": "Care",
+                "color": "yellow"
+            }
+        ],
+        "shortUrl": "https://trello.com/c/3LsoanmF",
+        "subscribed": false,
+        "url": "https://trello.com/c/3LsoanmF/2-name-one-thing-you-care-about-that-we-should-be-doing-but-is-not-happening",
+        "cover": {
+            "idAttachment": null,
+            "color": null,
+            "idUploadedBackground": null,
+            "size": "normal",
+            "brightness": "light"
+        }
+    },
+    {
+        "id": "5eb050ed8bab7b6e2f48ad08",
+        "checkItemStates": null,
+        "closed": false,
+        "dateLastActivity": "2020-05-04T18:17:07.691Z",
+        "desc": "",
+        "descData": null,
+        "dueReminder": null,
+        "idBoard": "5eb0118da24677822bb3716d",
+        "idList": "5eb0118da24677822bb37170",
+        "idMembersVoted": [],
+        "idShort": 91,
+        "idAttachmentCover": null,
+        "idLabels": [
+            "5eb0118da24677822bb371ee"
+        ],
+        "manualCoverAttachment": false,
+        "name": "Be able to describe context of our data like a timeline for things that are not programatic or tidy. Maybe a notes type area.",
+        "pos": 131071,
+        "shortLink": "wDymvzd7",
+        "isTemplate": false,
+        "badges": {
+            "attachmentsByType": {
+                "trello": {
+                    "board": 0,
+                    "card": 0
+                }
+            },
+            "location": false,
+            "votes": 0,
+            "viewingMemberVoted": false,
+            "subscribed": false,
+            "fogbugz": "",
+            "checkItems": 0,
+            "checkItemsChecked": 0,
+            "checkItemsEarliestDue": null,
+            "comments": 1,
+            "attachments": 0,
+            "description": false,
+            "due": null,
+            "dueComplete": false
+        },
+        "dueComplete": false,
+        "due": null,
+        "idChecklists": [],
+        "idMembers": [],
+        "labels": [
+            {
+                "id": "5eb0118da24677822bb371ee",
+                "idBoard": "5eb0118da24677822bb3716d",
+                "name": "Care",
+                "color": "yellow"
+            }
+        ],
+        "shortUrl": "https://trello.com/c/wDymvzd7",
+        "subscribed": false,
+        "url": "https://trello.com/c/wDymvzd7/91-be-able-to-describe-context-of-our-data-like-a-timeline-for-things-that-are-not-programatic-or-tidy-maybe-a-notes-type-area",
+        "cover": {
+            "idAttachment": null,
+            "color": null,
+            "idUploadedBackground": null,
+            "size": "normal",
+            "brightness": "light"
+        }
+    },
+    {
+        "id": "5eb0508b14643983eb8fffd9",
+        "checkItemStates": null,
+        "closed": false,
+        "dateLastActivity": "2020-05-04T18:16:51.447Z",
+        "desc": "",
+        "descData": null,
+        "dueReminder": null,
+        "idBoard": "5eb0118da24677822bb3716d",
+        "idList": "5eb0118da24677822bb37170",
+        "idMembersVoted": [],
+        "idShort": 83,
+        "idAttachmentCover": null,
+        "idLabels": [
+            "5eb0118da24677822bb371ee"
+        ],
+        "manualCoverAttachment": false,
+        "name": "onboard CNP to segment so as to do away with manual metrics pull & really be able to do more with usage analytics.",
+        "pos": 196607,
+        "shortLink": "CLw0K0lB",
+        "isTemplate": false,
+        "badges": {
+            "attachmentsByType": {
+                "trello": {
+                    "board": 0,
+                    "card": 0
+                }
+            },
+            "location": false,
+            "votes": 0,
+            "viewingMemberVoted": false,
+            "subscribed": false,
+            "fogbugz": "",
+            "checkItems": 0,
+            "checkItemsChecked": 0,
+            "checkItemsEarliestDue": null,
+            "comments": 1,
+            "attachments": 0,
+            "description": false,
+            "due": null,
+            "dueComplete": false
+        },
+        "dueComplete": false,
+        "due": null,
+        "idChecklists": [],
+        "idMembers": [],
+        "labels": [
+            {
+                "id": "5eb0118da24677822bb371ee",
+                "idBoard": "5eb0118da24677822bb3716d",
+                "name": "Care",
+                "color": "yellow"
+            }
+        ],
+        "shortUrl": "https://trello.com/c/CLw0K0lB",
+        "subscribed": false,
+        "url": "https://trello.com/c/CLw0K0lB/83-onboard-cnp-to-segment-so-as-to-do-away-with-manual-metrics-pull-really-be-able-to-do-more-with-usage-analytics",
+        "cover": {
+            "idAttachment": null,
+            "color": null,
+            "idUploadedBackground": null,
+            "size": "normal",
+            "brightness": "light"
+        }
+    },
+    {
+        "id": "5eb0510d43d33f2ede08e219",
+        "checkItemStates": null,
+        "closed": false,
+        "dateLastActivity": "2020-05-04T17:34:17.009Z",
+        "desc": "",
+        "descData": null,
+        "dueReminder": null,
+        "idBoard": "5eb0118da24677822bb3716d",
+        "idList": "5eb0118da24677822bb37170",
+        "idMembersVoted": [],
+        "idShort": 95,
+        "idAttachmentCover": null,
+        "idLabels": [
+            "5eb0118da24677822bb371ee"
+        ],
+        "manualCoverAttachment": false,
+        "name": "Shifting priorities",
+        "pos": 262143,
+        "shortLink": "QQl3fFBJ",
+        "isTemplate": false,
+        "badges": {
+            "attachmentsByType": {
+                "trello": {
+                    "board": 0,
+                    "card": 0
+                }
+            },
+            "location": false,
+            "votes": 0,
+            "viewingMemberVoted": false,
+            "subscribed": false,
+            "fogbugz": "",
+            "checkItems": 0,
+            "checkItemsChecked": 0,
+            "checkItemsEarliestDue": null,
+            "comments": 0,
+            "attachments": 0,
+            "description": false,
+            "due": null,
+            "dueComplete": false
+        },
+        "dueComplete": false,
+        "due": null,
+        "idChecklists": [],
+        "idMembers": [],
+        "labels": [
+            {
+                "id": "5eb0118da24677822bb371ee",
+                "idBoard": "5eb0118da24677822bb3716d",
+                "name": "Care",
+                "color": "yellow"
+            }
+        ],
+        "shortUrl": "https://trello.com/c/QQl3fFBJ",
+        "subscribed": false,
+        "url": "https://trello.com/c/QQl3fFBJ/95-shifting-priorities",
+        "cover": {
+            "idAttachment": null,
+            "color": null,
+            "idUploadedBackground": null,
+            "size": "normal",
+            "brightness": "light"
+        }
+    },
+    {
+        "id": "5eb0512c6000cb10a79aa5ca",
+        "checkItemStates": null,
+        "closed": false,
+        "dateLastActivity": "2020-05-04T18:20:56.373Z",
+        "desc": "",
+        "descData": null,
+        "dueReminder": null,
+        "idBoard": "5eb0118da24677822bb3716d",
+        "idList": "5eb0118da24677822bb37170",
+        "idMembersVoted": [],
+        "idShort": 98,
+        "idAttachmentCover": null,
+        "idLabels": [
+            "5eb0118da24677822bb371ee"
+        ],
+        "manualCoverAttachment": false,
+        "name": "Rapidly changing priorities!",
+        "pos": 278527,
+        "shortLink": "3jynDMjQ",
+        "isTemplate": false,
+        "badges": {
+            "attachmentsByType": {
+                "trello": {
+                    "board": 0,
+                    "card": 0
+                }
+            },
+            "location": false,
+            "votes": 0,
+            "viewingMemberVoted": false,
+            "subscribed": false,
+            "fogbugz": "",
+            "checkItems": 0,
+            "checkItemsChecked": 0,
+            "checkItemsEarliestDue": null,
+            "comments": 4,
+            "attachments": 0,
+            "description": false,
+            "due": null,
+            "dueComplete": false
+        },
+        "dueComplete": false,
+        "due": null,
+        "idChecklists": [],
+        "idMembers": [],
+        "labels": [
+            {
+                "id": "5eb0118da24677822bb371ee",
+                "idBoard": "5eb0118da24677822bb3716d",
+                "name": "Care",
+                "color": "yellow"
+            }
+        ],
+        "shortUrl": "https://trello.com/c/3jynDMjQ",
+        "subscribed": false,
+        "url": "https://trello.com/c/3jynDMjQ/98-rapidly-changing-priorities",
+        "cover": {
+            "idAttachment": null,
+            "color": null,
+            "idUploadedBackground": null,
+            "size": "normal",
+            "brightness": "light"
+        }
+    },
+    {
+        "id": "5eb0515af334c28d48966741",
+        "checkItemStates": null,
+        "closed": false,
+        "dateLastActivity": "2020-05-04T18:18:38.574Z",
+        "desc": "",
+        "descData": null,
+        "dueReminder": null,
+        "idBoard": "5eb0118da24677822bb3716d",
+        "idList": "5eb0118da24677822bb37170",
+        "idMembersVoted": [],
+        "idShort": 103,
+        "idAttachmentCover": null,
+        "idLabels": [
+            "5eb0118da24677822bb371ee"
+        ],
+        "manualCoverAttachment": false,
+        "name": "Often small discovery tickets get traction and all of a sudden we're spending loads of time on something without clear boundaries",
+        "pos": 294911,
+        "shortLink": "MqGDbv1G",
+        "isTemplate": false,
+        "badges": {
+            "attachmentsByType": {
+                "trello": {
+                    "board": 0,
+                    "card": 0
+                }
+            },
+            "location": false,
+            "votes": 0,
+            "viewingMemberVoted": false,
+            "subscribed": false,
+            "fogbugz": "",
+            "checkItems": 0,
+            "checkItemsChecked": 0,
+            "checkItemsEarliestDue": null,
+            "comments": 1,
+            "attachments": 0,
+            "description": false,
+            "due": null,
+            "dueComplete": false
+        },
+        "dueComplete": false,
+        "due": null,
+        "idChecklists": [],
+        "idMembers": [],
+        "labels": [
+            {
+                "id": "5eb0118da24677822bb371ee",
+                "idBoard": "5eb0118da24677822bb3716d",
+                "name": "Care",
+                "color": "yellow"
+            }
+        ],
+        "shortUrl": "https://trello.com/c/MqGDbv1G",
+        "subscribed": false,
+        "url": "https://trello.com/c/MqGDbv1G/103-often-small-discovery-tickets-get-traction-and-all-of-a-sudden-were-spending-loads-of-time-on-something-without-clear-boundaries",
+        "cover": {
+            "idAttachment": null,
+            "color": null,
+            "idUploadedBackground": null,
+            "size": "normal",
+            "brightness": "light"
+        }
+    },
+    {
+        "id": "5eb051698b92cb1a6e2d4094",
+        "checkItemStates": null,
+        "closed": false,
+        "dateLastActivity": "2020-05-04T18:17:37.373Z",
+        "desc": "",
+        "descData": null,
+        "dueReminder": null,
+        "idBoard": "5eb0118da24677822bb3716d",
+        "idList": "5eb0118da24677822bb37170",
+        "idMembersVoted": [],
+        "idShort": 105,
+        "idAttachmentCover": null,
+        "idLabels": [
+            "5eb0118da24677822bb371ee"
+        ],
+        "manualCoverAttachment": false,
+        "name": "Clearer business and technical goals for integrating with Growth",
+        "pos": 393215,
+        "shortLink": "ZFPHG8Lr",
+        "isTemplate": false,
+        "badges": {
+            "attachmentsByType": {
+                "trello": {
+                    "board": 0,
+                    "card": 0
+                }
+            },
+            "location": false,
+            "votes": 0,
+            "viewingMemberVoted": false,
+            "subscribed": false,
+            "fogbugz": "",
+            "checkItems": 0,
+            "checkItemsChecked": 0,
+            "checkItemsEarliestDue": null,
+            "comments": 1,
+            "attachments": 0,
+            "description": false,
+            "due": null,
+            "dueComplete": false
+        },
+        "dueComplete": false,
+        "due": null,
+        "idChecklists": [],
+        "idMembers": [],
+        "labels": [
+            {
+                "id": "5eb0118da24677822bb371ee",
+                "idBoard": "5eb0118da24677822bb3716d",
+                "name": "Care",
+                "color": "yellow"
+            }
+        ],
+        "shortUrl": "https://trello.com/c/ZFPHG8Lr",
+        "subscribed": false,
+        "url": "https://trello.com/c/ZFPHG8Lr/105-clearer-business-and-technical-goals-for-integrating-with-growth",
+        "cover": {
+            "idAttachment": null,
+            "color": null,
+            "idUploadedBackground": null,
+            "size": "normal",
+            "brightness": "light"
+        }
+    },
+    {
+        "id": "5eb0518023caca7fa8eb82ab",
+        "checkItemStates": null,
+        "closed": false,
+        "dateLastActivity": "2020-05-04T18:20:03.599Z",
+        "desc": "3",
+        "descData": {
+            "emoji": {}
+        },
+        "dueReminder": null,
+        "idBoard": "5eb0118da24677822bb3716d",
+        "idList": "5eb0118da24677822bb37170",
+        "idMembersVoted": [],
+        "idShort": 107,
+        "idAttachmentCover": null,
+        "idLabels": [
+            "5eb0118da24677822bb371ee"
+        ],
+        "manualCoverAttachment": false,
+        "name": "If we are gonna have FridayYOU, let's all respect it.",
+        "pos": 458751,
+        "shortLink": "xe86hL3x",
+        "isTemplate": false,
+        "badges": {
+            "attachmentsByType": {
+                "trello": {
+                    "board": 0,
+                    "card": 0
+                }
+            },
+            "location": false,
+            "votes": 0,
+            "viewingMemberVoted": false,
+            "subscribed": false,
+            "fogbugz": "",
+            "checkItems": 0,
+            "checkItemsChecked": 0,
+            "checkItemsEarliestDue": null,
+            "comments": 0,
+            "attachments": 0,
+            "description": true,
+            "due": null,
+            "dueComplete": false
+        },
+        "dueComplete": false,
+        "due": null,
+        "idChecklists": [],
+        "idMembers": [],
+        "labels": [
+            {
+                "id": "5eb0118da24677822bb371ee",
+                "idBoard": "5eb0118da24677822bb3716d",
+                "name": "Care",
+                "color": "yellow"
+            }
+        ],
+        "shortUrl": "https://trello.com/c/xe86hL3x",
+        "subscribed": false,
+        "url": "https://trello.com/c/xe86hL3x/107-if-we-are-gonna-have-fridayyou-lets-all-respect-it",
+        "cover": {
+            "idAttachment": null,
+            "color": null,
+            "idUploadedBackground": null,
+            "size": "normal",
+            "brightness": "light"
+        }
+    },
+    {
+        "id": "5eb0118da24677822bb37189",
+        "checkItemStates": null,
+        "closed": false,
+        "dateLastActivity": "2020-05-04T12:58:54.740Z",
+        "desc": "",
+        "descData": null,
+        "dueReminder": null,
+        "idBoard": "5eb0118da24677822bb3716d",
+        "idList": "5eb0118da24677822bb37171",
+        "idMembersVoted": [],
+        "idShort": 3,
+        "idAttachmentCover": null,
+        "idLabels": [
+            "5eb0118da24677822bb371f0"
+        ],
+        "manualCoverAttachment": false,
+        "name": "Name one thing that you appreciated or were surprised by this past iteration",
+        "pos": 65535,
+        "shortLink": "TGITamnS",
+        "isTemplate": false,
+        "badges": {
+            "attachmentsByType": {
+                "trello": {
+                    "board": 0,
+                    "card": 0
+                }
+            },
+            "location": false,
+            "votes": 0,
+            "viewingMemberVoted": false,
+            "subscribed": false,
+            "fogbugz": "",
+            "checkItems": 0,
+            "checkItemsChecked": 0,
+            "checkItemsEarliestDue": null,
+            "comments": 0,
+            "attachments": 0,
+            "description": false,
+            "due": null,
+            "dueComplete": false
+        },
+        "dueComplete": false,
+        "due": null,
+        "idChecklists": [],
+        "idMembers": [],
+        "labels": [
+            {
+                "id": "5eb0118da24677822bb371f0",
+                "idBoard": "5eb0118da24677822bb3716d",
+                "name": "Share",
+                "color": "orange"
+            }
+        ],
+        "shortUrl": "https://trello.com/c/TGITamnS",
+        "subscribed": false,
+        "url": "https://trello.com/c/TGITamnS/3-name-one-thing-that-you-appreciated-or-were-surprised-by-this-past-iteration",
+        "cover": {
+            "idAttachment": null,
+            "color": null,
+            "idUploadedBackground": null,
+            "size": "normal",
+            "brightness": "light"
+        }
+    },
+    {
+        "id": "5eb051159c9beb51692e6c39",
+        "checkItemStates": null,
+        "closed": false,
+        "dateLastActivity": "2020-05-04T17:33:29.048Z",
+        "desc": "",
+        "descData": null,
+        "dueReminder": null,
+        "idBoard": "5eb0118da24677822bb3716d",
+        "idList": "5eb0118da24677822bb37171",
+        "idMembersVoted": [],
+        "idShort": 96,
+        "idAttachmentCover": null,
+        "idLabels": [
+            "5eb0118da24677822bb371f0"
+        ],
+        "manualCoverAttachment": false,
+        "name": "Iteration planning and backlog review is going well. It's that one thing you don't look forward to, but you're glad you did it.",
+        "pos": 81919,
+        "shortLink": "twuepT4O",
+        "isTemplate": false,
+        "badges": {
+            "attachmentsByType": {
+                "trello": {
+                    "board": 0,
+                    "card": 0
+                }
+            },
+            "location": false,
+            "votes": 0,
+            "viewingMemberVoted": false,
+            "subscribed": false,
+            "fogbugz": "",
+            "checkItems": 0,
+            "checkItemsChecked": 0,
+            "checkItemsEarliestDue": null,
+            "comments": 0,
+            "attachments": 0,
+            "description": false,
+            "due": null,
+            "dueComplete": false
+        },
+        "dueComplete": false,
+        "due": null,
+        "idChecklists": [],
+        "idMembers": [],
+        "labels": [
+            {
+                "id": "5eb0118da24677822bb371f0",
+                "idBoard": "5eb0118da24677822bb3716d",
+                "name": "Share",
+                "color": "orange"
+            }
+        ],
+        "shortUrl": "https://trello.com/c/twuepT4O",
+        "subscribed": false,
+        "url": "https://trello.com/c/twuepT4O/96-iteration-planning-and-backlog-review-is-going-well-its-that-one-thing-you-dont-look-forward-to-but-youre-glad-you-did-it",
+        "cover": {
+            "idAttachment": null,
+            "color": null,
+            "idUploadedBackground": null,
+            "size": "normal",
+            "brightness": "light"
+        }
+    },
+    {
+        "id": "5eb050b636e9f20556d74f73",
+        "checkItemStates": null,
+        "closed": false,
+        "dateLastActivity": "2020-05-04T17:33:33.862Z",
+        "desc": "",
+        "descData": null,
+        "dueReminder": null,
+        "idBoard": "5eb0118da24677822bb3716d",
+        "idList": "5eb0118da24677822bb37171",
+        "idMembersVoted": [],
+        "idShort": 87,
+        "idAttachmentCover": null,
+        "idLabels": [
+            "5eb0118da24677822bb371f0"
+        ],
+        "manualCoverAttachment": false,
+        "name": "lets encrypt auto cert renew was nice. Now I no longer need to figure out what format of cert do I need to get from digicert and install it on the kubernetes.",
+        "pos": 98303,
+        "shortLink": "hPesHxe2",
+        "isTemplate": false,
+        "badges": {
+            "attachmentsByType": {
+                "trello": {
+                    "board": 0,
+                    "card": 0
+                }
+            },
+            "location": false,
+            "votes": 0,
+            "viewingMemberVoted": false,
+            "subscribed": false,
+            "fogbugz": "",
+            "checkItems": 0,
+            "checkItemsChecked": 0,
+            "checkItemsEarliestDue": null,
+            "comments": 0,
+            "attachments": 0,
+            "description": false,
+            "due": null,
+            "dueComplete": false
+        },
+        "dueComplete": false,
+        "due": null,
+        "idChecklists": [],
+        "idMembers": [],
+        "labels": [
+            {
+                "id": "5eb0118da24677822bb371f0",
+                "idBoard": "5eb0118da24677822bb3716d",
+                "name": "Share",
+                "color": "orange"
+            }
+        ],
+        "shortUrl": "https://trello.com/c/hPesHxe2",
+        "subscribed": false,
+        "url": "https://trello.com/c/hPesHxe2/87-lets-encrypt-auto-cert-renew-was-nice-now-i-no-longer-need-to-figure-out-what-format-of-cert-do-i-need-to-get-from-digicert-and",
+        "cover": {
+            "idAttachment": null,
+            "color": null,
+            "idUploadedBackground": null,
+            "size": "normal",
+            "brightness": "light"
+        }
+    },
+    {
+        "id": "5eb050a03a57e1659dfc4c23",
+        "checkItemStates": null,
+        "closed": false,
+        "dateLastActivity": "2020-05-04T18:17:42.929Z",
+        "desc": "",
+        "descData": null,
+        "dueReminder": null,
+        "idBoard": "5eb0118da24677822bb3716d",
+        "idList": "5eb0118da24677822bb37171",
+        "idMembersVoted": [],
+        "idShort": 86,
+        "idAttachmentCover": null,
+        "idLabels": [
+            "5eb0118da24677822bb371f0"
+        ],
+        "manualCoverAttachment": false,
+        "name": "Instrumentation status app in ZenHub!",
+        "pos": 131071,
+        "shortLink": "JAgEVgIv",
+        "isTemplate": false,
+        "badges": {
+            "attachmentsByType": {
+                "trello": {
+                    "board": 0,
+                    "card": 0
+                }
+            },
+            "location": false,
+            "votes": 0,
+            "viewingMemberVoted": false,
+            "subscribed": false,
+            "fogbugz": "",
+            "checkItems": 0,
+            "checkItemsChecked": 0,
+            "checkItemsEarliestDue": null,
+            "comments": 1,
+            "attachments": 0,
+            "description": false,
+            "due": null,
+            "dueComplete": false
+        },
+        "dueComplete": false,
+        "due": null,
+        "idChecklists": [],
+        "idMembers": [],
+        "labels": [
+            {
+                "id": "5eb0118da24677822bb371f0",
+                "idBoard": "5eb0118da24677822bb3716d",
+                "name": "Share",
+                "color": "orange"
+            }
+        ],
+        "shortUrl": "https://trello.com/c/JAgEVgIv",
+        "subscribed": false,
+        "url": "https://trello.com/c/JAgEVgIv/86-instrumentation-status-app-in-zenhub",
+        "cover": {
+            "idAttachment": null,
+            "color": null,
+            "idUploadedBackground": null,
+            "size": "normal",
+            "brightness": "light"
+        }
+    },
+    {
+        "id": "5eb050ef0479ab65cd2dd4c0",
+        "checkItemStates": null,
+        "closed": false,
+        "dateLastActivity": "2020-05-04T17:33:45.114Z",
+        "desc": "",
+        "descData": null,
+        "dueReminder": null,
+        "idBoard": "5eb0118da24677822bb3716d",
+        "idList": "5eb0118da24677822bb37171",
+        "idMembersVoted": [],
+        "idShort": 92,
+        "idAttachmentCover": null,
+        "idLabels": [
+            "5eb0118da24677822bb371f0"
+        ],
+        "manualCoverAttachment": false,
+        "name": "Using 1Password to centrally store Data Ops shared credentials.  Thanks @Raf!",
+        "pos": 139263,
+        "shortLink": "IVp1KXS5",
+        "isTemplate": false,
+        "badges": {
+            "attachmentsByType": {
+                "trello": {
+                    "board": 0,
+                    "card": 0
+                }
+            },
+            "location": false,
+            "votes": 0,
+            "viewingMemberVoted": false,
+            "subscribed": false,
+            "fogbugz": "",
+            "checkItems": 0,
+            "checkItemsChecked": 0,
+            "checkItemsEarliestDue": null,
+            "comments": 0,
+            "attachments": 0,
+            "description": false,
+            "due": null,
+            "dueComplete": false
+        },
+        "dueComplete": false,
+        "due": null,
+        "idChecklists": [],
+        "idMembers": [],
+        "labels": [
+            {
+                "id": "5eb0118da24677822bb371f0",
+                "idBoard": "5eb0118da24677822bb3716d",
+                "name": "Share",
+                "color": "orange"
+            }
+        ],
+        "shortUrl": "https://trello.com/c/IVp1KXS5",
+        "subscribed": false,
+        "url": "https://trello.com/c/IVp1KXS5/92-using-1password-to-centrally-store-data-ops-shared-credentials-thanks-raf",
+        "cover": {
+            "idAttachment": null,
+            "color": null,
+            "idUploadedBackground": null,
+            "size": "normal",
+            "brightness": "light"
+        }
+    },
+    {
+        "id": "5eb050f1f976948da31ac2e2",
+        "checkItemStates": null,
+        "closed": false,
+        "dateLastActivity": "2020-05-04T18:19:56.622Z",
+        "desc": "",
+        "descData": null,
+        "dueReminder": null,
+        "idBoard": "5eb0118da24677822bb3716d",
+        "idList": "5eb0118da24677822bb37171",
+        "idMembersVoted": [],
+        "idShort": 93,
+        "idAttachmentCover": null,
+        "idLabels": [
+            "5eb0118da24677822bb371f0"
+        ],
+        "manualCoverAttachment": false,
+        "name": "Mild weather in Florida",
+        "pos": 143359,
+        "shortLink": "hr5jRD0I",
+        "isTemplate": false,
+        "badges": {
+            "attachmentsByType": {
+                "trello": {
+                    "board": 0,
+                    "card": 0
+                }
+            },
+            "location": false,
+            "votes": 0,
+            "viewingMemberVoted": false,
+            "subscribed": false,
+            "fogbugz": "",
+            "checkItems": 0,
+            "checkItemsChecked": 0,
+            "checkItemsEarliestDue": null,
+            "comments": 0,
+            "attachments": 0,
+            "description": false,
+            "due": null,
+            "dueComplete": false
+        },
+        "dueComplete": false,
+        "due": null,
+        "idChecklists": [],
+        "idMembers": [],
+        "labels": [
+            {
+                "id": "5eb0118da24677822bb371f0",
+                "idBoard": "5eb0118da24677822bb3716d",
+                "name": "Share",
+                "color": "orange"
+            }
+        ],
+        "shortUrl": "https://trello.com/c/hr5jRD0I",
+        "subscribed": false,
+        "url": "https://trello.com/c/hr5jRD0I/93-mild-weather-in-florida",
+        "cover": {
+            "idAttachment": null,
+            "color": null,
+            "idUploadedBackground": null,
+            "size": "normal",
+            "brightness": "light"
+        }
+    },
+    {
+        "id": "5eb050e55172f5505b534a53",
+        "checkItemStates": null,
+        "closed": false,
+        "dateLastActivity": "2020-05-04T17:33:56.110Z",
+        "desc": "",
+        "descData": null,
+        "dueReminder": null,
+        "idBoard": "5eb0118da24677822bb3716d",
+        "idList": "5eb0118da24677822bb37171",
+        "idMembersVoted": [],
+        "idShort": 90,
+        "idAttachmentCover": null,
+        "idLabels": [
+            "5eb0118da24677822bb371f0"
+        ],
+        "manualCoverAttachment": false,
+        "name": "agreement on XS KPI metrics goals & 1st backlog item to get started asap",
+        "pos": 147455,
+        "shortLink": "QrudMTUr",
+        "isTemplate": false,
+        "badges": {
+            "attachmentsByType": {
+                "trello": {
+                    "board": 0,
+                    "card": 0
+                }
+            },
+            "location": false,
+            "votes": 0,
+            "viewingMemberVoted": false,
+            "subscribed": false,
+            "fogbugz": "",
+            "checkItems": 0,
+            "checkItemsChecked": 0,
+            "checkItemsEarliestDue": null,
+            "comments": 0,
+            "attachments": 0,
+            "description": false,
+            "due": null,
+            "dueComplete": false
+        },
+        "dueComplete": false,
+        "due": null,
+        "idChecklists": [],
+        "idMembers": [],
+        "labels": [
+            {
+                "id": "5eb0118da24677822bb371f0",
+                "idBoard": "5eb0118da24677822bb3716d",
+                "name": "Share",
+                "color": "orange"
+            }
+        ],
+        "shortUrl": "https://trello.com/c/QrudMTUr",
+        "subscribed": false,
+        "url": "https://trello.com/c/QrudMTUr/90-agreement-on-xs-kpi-metrics-goals-1st-backlog-item-to-get-started-asap",
+        "cover": {
+            "idAttachment": null,
+            "color": null,
+            "idUploadedBackground": null,
+            "size": "normal",
+            "brightness": "light"
+        }
+    },
+    {
+        "id": "5eb050e20f88185fdcba4211",
+        "checkItemStates": null,
+        "closed": false,
+        "dateLastActivity": "2020-05-04T17:34:01.526Z",
+        "desc": "",
+        "descData": null,
+        "dueReminder": null,
+        "idBoard": "5eb0118da24677822bb3716d",
+        "idList": "5eb0118da24677822bb37171",
+        "idMembersVoted": [],
+        "idShort": 89,
+        "idAttachmentCover": null,
+        "idLabels": [
+            "5eb0118da24677822bb371f0"
+        ],
+        "manualCoverAttachment": false,
+        "name": "Factory models for easing the process of offering instrumentation",
+        "pos": 163839,
+        "shortLink": "BsM6LcSn",
+        "isTemplate": false,
+        "badges": {
+            "attachmentsByType": {
+                "trello": {
+                    "board": 0,
+                    "card": 0
+                }
+            },
+            "location": false,
+            "votes": 0,
+            "viewingMemberVoted": false,
+            "subscribed": false,
+            "fogbugz": "",
+            "checkItems": 0,
+            "checkItemsChecked": 0,
+            "checkItemsEarliestDue": null,
+            "comments": 0,
+            "attachments": 0,
+            "description": false,
+            "due": null,
+            "dueComplete": false
+        },
+        "dueComplete": false,
+        "due": null,
+        "idChecklists": [],
+        "idMembers": [],
+        "labels": [
+            {
+                "id": "5eb0118da24677822bb371f0",
+                "idBoard": "5eb0118da24677822bb3716d",
+                "name": "Share",
+                "color": "orange"
+            }
+        ],
+        "shortUrl": "https://trello.com/c/BsM6LcSn",
+        "subscribed": false,
+        "url": "https://trello.com/c/BsM6LcSn/89-factory-models-for-easing-the-process-of-offering-instrumentation",
+        "cover": {
+            "idAttachment": null,
+            "color": null,
+            "idUploadedBackground": null,
+            "size": "normal",
+            "brightness": "light"
+        }
+    },
+    {
+        "id": "5eb0511896ab2f60fee27d85",
+        "checkItemStates": null,
+        "closed": false,
+        "dateLastActivity": "2020-05-04T18:17:12.982Z",
+        "desc": "",
+        "descData": null,
+        "dueReminder": null,
+        "idBoard": "5eb0118da24677822bb3716d",
+        "idList": "5eb0118da24677822bb37171",
+        "idMembersVoted": [],
+        "idShort": 97,
+        "idAttachmentCover": null,
+        "idLabels": [
+            "5eb0118da24677822bb371f0"
+        ],
+        "manualCoverAttachment": false,
+        "name": "how much more energy & mental clarity I have when I exercise in the morning.",
+        "pos": 180223,
+        "shortLink": "i0Vxxq9K",
+        "isTemplate": false,
+        "badges": {
+            "attachmentsByType": {
+                "trello": {
+                    "board": 0,
+                    "card": 0
+                }
+            },
+            "location": false,
+            "votes": 0,
+            "viewingMemberVoted": false,
+            "subscribed": false,
+            "fogbugz": "",
+            "checkItems": 0,
+            "checkItemsChecked": 0,
+            "checkItemsEarliestDue": null,
+            "comments": 1,
+            "attachments": 0,
+            "description": false,
+            "due": null,
+            "dueComplete": false
+        },
+        "dueComplete": false,
+        "due": null,
+        "idChecklists": [],
+        "idMembers": [],
+        "labels": [
+            {
+                "id": "5eb0118da24677822bb371f0",
+                "idBoard": "5eb0118da24677822bb3716d",
+                "name": "Share",
+                "color": "orange"
+            }
+        ],
+        "shortUrl": "https://trello.com/c/i0Vxxq9K",
+        "subscribed": false,
+        "url": "https://trello.com/c/i0Vxxq9K/97-how-much-more-energy-mental-clarity-i-have-when-i-exercise-in-the-morning",
+        "cover": {
+            "idAttachment": null,
+            "color": null,
+            "idUploadedBackground": null,
+            "size": "normal",
+            "brightness": "light"
+        }
+    },
+    {
+        "id": "5eb050d61cdcce0c34dc1596",
+        "checkItemStates": null,
+        "closed": false,
+        "dateLastActivity": "2020-05-04T17:34:39.806Z",
+        "desc": "",
+        "descData": null,
+        "dueReminder": null,
+        "idBoard": "5eb0118da24677822bb3716d",
+        "idList": "5eb0118da24677822bb37171",
+        "idMembersVoted": [],
+        "idShort": 88,
+        "idAttachmentCover": null,
+        "idLabels": [
+            "5eb0118da24677822bb371f0"
+        ],
+        "manualCoverAttachment": false,
+        "name": "Slack Upgrade!",
+        "pos": 196607,
+        "shortLink": "uxVHMA2z",
+        "isTemplate": false,
+        "badges": {
+            "attachmentsByType": {
+                "trello": {
+                    "board": 0,
+                    "card": 0
+                }
+            },
+            "location": false,
+            "votes": 0,
+            "viewingMemberVoted": false,
+            "subscribed": false,
+            "fogbugz": "",
+            "checkItems": 0,
+            "checkItemsChecked": 0,
+            "checkItemsEarliestDue": null,
+            "comments": 0,
+            "attachments": 0,
+            "description": false,
+            "due": null,
+            "dueComplete": false
+        },
+        "dueComplete": false,
+        "due": null,
+        "idChecklists": [],
+        "idMembers": [],
+        "labels": [
+            {
+                "id": "5eb0118da24677822bb371f0",
+                "idBoard": "5eb0118da24677822bb3716d",
+                "name": "Share",
+                "color": "orange"
+            }
+        ],
+        "shortUrl": "https://trello.com/c/uxVHMA2z",
+        "subscribed": false,
+        "url": "https://trello.com/c/uxVHMA2z/88-slack-upgrade",
+        "cover": {
+            "idAttachment": null,
+            "color": null,
+            "idUploadedBackground": null,
+            "size": "normal",
+            "brightness": "light"
+        }
+    },
+    {
+        "id": "5eb0510c013173643ebd98da",
+        "checkItemStates": null,
+        "closed": false,
+        "dateLastActivity": "2020-05-04T17:34:34.808Z",
+        "desc": "",
+        "descData": null,
+        "dueReminder": null,
+        "idBoard": "5eb0118da24677822bb3716d",
+        "idList": "5eb0118da24677822bb37171",
+        "idMembersVoted": [],
+        "idShort": 94,
+        "idAttachmentCover": null,
+        "idLabels": [
+            "5eb0118da24677822bb371f0"
+        ],
+        "manualCoverAttachment": false,
+        "name": "Carbon pictograms!",
+        "pos": 262143,
+        "shortLink": "5c6RulY8",
+        "isTemplate": false,
+        "badges": {
+            "attachmentsByType": {
+                "trello": {
+                    "board": 0,
+                    "card": 0
+                }
+            },
+            "location": false,
+            "votes": 0,
+            "viewingMemberVoted": false,
+            "subscribed": false,
+            "fogbugz": "",
+            "checkItems": 0,
+            "checkItemsChecked": 0,
+            "checkItemsEarliestDue": null,
+            "comments": 0,
+            "attachments": 0,
+            "description": false,
+            "due": null,
+            "dueComplete": false
+        },
+        "dueComplete": false,
+        "due": null,
+        "idChecklists": [],
+        "idMembers": [],
+        "labels": [
+            {
+                "id": "5eb0118da24677822bb371f0",
+                "idBoard": "5eb0118da24677822bb3716d",
+                "name": "Share",
+                "color": "orange"
+            }
+        ],
+        "shortUrl": "https://trello.com/c/5c6RulY8",
+        "subscribed": false,
+        "url": "https://trello.com/c/5c6RulY8/94-carbon-pictograms",
+        "cover": {
+            "idAttachment": null,
+            "color": null,
+            "idUploadedBackground": null,
+            "size": "normal",
+            "brightness": "light"
+        }
+    },
+    {
+        "id": "5eb051347a229336cf6e12c8",
+        "checkItemStates": null,
+        "closed": false,
+        "dateLastActivity": "2020-05-04T17:34:28.497Z",
+        "desc": "",
+        "descData": null,
+        "dueReminder": null,
+        "idBoard": "5eb0118da24677822bb3716d",
+        "idList": "5eb0118da24677822bb37171",
+        "idMembersVoted": [],
+        "idShort": 99,
+        "idAttachmentCover": null,
+        "idLabels": [
+            "5eb0118da24677822bb371f0"
+        ],
+        "manualCoverAttachment": false,
+        "name": "Focus on better handling for Secrets",
+        "pos": 327679,
+        "shortLink": "rxiF39gg",
+        "isTemplate": false,
+        "badges": {
+            "attachmentsByType": {
+                "trello": {
+                    "board": 0,
+                    "card": 0
+                }
+            },
+            "location": false,
+            "votes": 0,
+            "viewingMemberVoted": false,
+            "subscribed": false,
+            "fogbugz": "",
+            "checkItems": 0,
+            "checkItemsChecked": 0,
+            "checkItemsEarliestDue": null,
+            "comments": 0,
+            "attachments": 0,
+            "description": false,
+            "due": null,
+            "dueComplete": false
+        },
+        "dueComplete": false,
+        "due": null,
+        "idChecklists": [],
+        "idMembers": [],
+        "labels": [
+            {
+                "id": "5eb0118da24677822bb371f0",
+                "idBoard": "5eb0118da24677822bb3716d",
+                "name": "Share",
+                "color": "orange"
+            }
+        ],
+        "shortUrl": "https://trello.com/c/rxiF39gg",
+        "subscribed": false,
+        "url": "https://trello.com/c/rxiF39gg/99-focus-on-better-handling-for-secrets",
+        "cover": {
+            "idAttachment": null,
+            "color": null,
+            "idUploadedBackground": null,
+            "size": "normal",
+            "brightness": "light"
+        }
+    },
+    {
+        "id": "5eb0519f56f4e0472999cd5d",
+        "checkItemStates": null,
+        "closed": false,
+        "dateLastActivity": "2020-05-04T17:34:11.450Z",
+        "desc": "",
+        "descData": null,
+        "dueReminder": null,
+        "idBoard": "5eb0118da24677822bb3716d",
+        "idList": "5eb0118da24677822bb37171",
+        "idMembersVoted": [],
+        "idShort": 110,
+        "idAttachmentCover": null,
+        "idLabels": [
+            "5eb0118da24677822bb371f0"
+        ],
+        "manualCoverAttachment": false,
+        "name": "Slacks new features make slack sooo much more usable now.",
+        "pos": 360447,
+        "shortLink": "mPweO6B9",
+        "isTemplate": false,
+        "badges": {
+            "attachmentsByType": {
+                "trello": {
+                    "board": 0,
+                    "card": 0
+                }
+            },
+            "location": false,
+            "votes": 0,
+            "viewingMemberVoted": false,
+            "subscribed": false,
+            "fogbugz": "",
+            "checkItems": 0,
+            "checkItemsChecked": 0,
+            "checkItemsEarliestDue": null,
+            "comments": 0,
+            "attachments": 0,
+            "description": false,
+            "due": null,
+            "dueComplete": false
+        },
+        "dueComplete": false,
+        "due": null,
+        "idChecklists": [],
+        "idMembers": [],
+        "labels": [
+            {
+                "id": "5eb0118da24677822bb371f0",
+                "idBoard": "5eb0118da24677822bb3716d",
+                "name": "Share",
+                "color": "orange"
+            }
+        ],
+        "shortUrl": "https://trello.com/c/mPweO6B9",
+        "subscribed": false,
+        "url": "https://trello.com/c/mPweO6B9/110-slacks-new-features-make-slack-sooo-much-more-usable-now",
+        "cover": {
+            "idAttachment": null,
+            "color": null,
+            "idUploadedBackground": null,
+            "size": "normal",
+            "brightness": "light"
+        }
+    },
+    {
+        "id": "5eb051b9ec874b49a4cc2950",
+        "checkItemStates": null,
+        "closed": false,
+        "dateLastActivity": "2020-05-04T17:34:11.012Z",
+        "desc": "",
+        "descData": null,
+        "dueReminder": null,
+        "idBoard": "5eb0118da24677822bb3716d",
+        "idList": "5eb0118da24677822bb37171",
+        "idMembersVoted": [],
+        "idShort": 113,
+        "idAttachmentCover": null,
+        "idLabels": [
+            "5eb0118da24677822bb371f0"
+        ],
+        "manualCoverAttachment": false,
+        "name": "L+A calls are nice. Getting to see faces from the rest of the company who are also remote. Nice ppl. :)",
+        "pos": 364543,
+        "shortLink": "b3BNekTG",
+        "isTemplate": false,
+        "badges": {
+            "attachmentsByType": {
+                "trello": {
+                    "board": 0,
+                    "card": 0
+                }
+            },
+            "location": false,
+            "votes": 0,
+            "viewingMemberVoted": false,
+            "subscribed": false,
+            "fogbugz": "",
+            "checkItems": 0,
+            "checkItemsChecked": 0,
+            "checkItemsEarliestDue": null,
+            "comments": 0,
+            "attachments": 0,
+            "description": false,
+            "due": null,
+            "dueComplete": false
+        },
+        "dueComplete": false,
+        "due": null,
+        "idChecklists": [],
+        "idMembers": [],
+        "labels": [
+            {
+                "id": "5eb0118da24677822bb371f0",
+                "idBoard": "5eb0118da24677822bb3716d",
+                "name": "Share",
+                "color": "orange"
+            }
+        ],
+        "shortUrl": "https://trello.com/c/b3BNekTG",
+        "subscribed": false,
+        "url": "https://trello.com/c/b3BNekTG/113-la-calls-are-nice-getting-to-see-faces-from-the-rest-of-the-company-who-are-also-remote-nice-ppl",
+        "cover": {
+            "idAttachment": null,
+            "color": null,
+            "idUploadedBackground": null,
+            "size": "normal",
+            "brightness": "light"
+        }
+    },
+    {
+        "id": "5eb051ab9f10698a09b5939e",
+        "checkItemStates": null,
+        "closed": false,
+        "dateLastActivity": "2020-05-04T17:34:10.640Z",
+        "desc": "",
+        "descData": null,
+        "dueReminder": null,
+        "idBoard": "5eb0118da24677822bb3716d",
+        "idList": "5eb0118da24677822bb37171",
+        "idMembersVoted": [],
+        "idShort": 112,
+        "idAttachmentCover": null,
+        "idLabels": [
+            "5eb0118da24677822bb371f0"
+        ],
+        "manualCoverAttachment": false,
+        "name": "This weekend's weather in New York.  Wow <3",
+        "pos": 368639,
+        "shortLink": "17vNWq0M",
+        "isTemplate": false,
+        "badges": {
+            "attachmentsByType": {
+                "trello": {
+                    "board": 0,
+                    "card": 0
+                }
+            },
+            "location": false,
+            "votes": 0,
+            "viewingMemberVoted": false,
+            "subscribed": false,
+            "fogbugz": "",
+            "checkItems": 0,
+            "checkItemsChecked": 0,
+            "checkItemsEarliestDue": null,
+            "comments": 0,
+            "attachments": 0,
+            "description": false,
+            "due": null,
+            "dueComplete": false
+        },
+        "dueComplete": false,
+        "due": null,
+        "idChecklists": [],
+        "idMembers": [],
+        "labels": [
+            {
+                "id": "5eb0118da24677822bb371f0",
+                "idBoard": "5eb0118da24677822bb3716d",
+                "name": "Share",
+                "color": "orange"
+            }
+        ],
+        "shortUrl": "https://trello.com/c/17vNWq0M",
+        "subscribed": false,
+        "url": "https://trello.com/c/17vNWq0M/112-this-weekends-weather-in-new-york-wow-3",
+        "cover": {
+            "idAttachment": null,
+            "color": null,
+            "idUploadedBackground": null,
+            "size": "normal",
+            "brightness": "light"
+        }
+    },
+    {
+        "id": "5eb051a6fcfd0a5065586247",
+        "checkItemStates": null,
+        "closed": false,
+        "dateLastActivity": "2020-05-04T18:17:43.265Z",
+        "desc": "",
+        "descData": null,
+        "dueReminder": null,
+        "idBoard": "5eb0118da24677822bb3716d",
+        "idList": "5eb0118da24677822bb37171",
+        "idMembersVoted": [],
+        "idShort": 111,
+        "idAttachmentCover": null,
+        "idLabels": [
+            "5eb0118da24677822bb371f0"
+        ],
+        "manualCoverAttachment": false,
+        "name": "Fixes to our DataOps iteration slides and a more focused story",
+        "pos": 376831,
+        "shortLink": "IEbLjfC7",
+        "isTemplate": false,
+        "badges": {
+            "attachmentsByType": {
+                "trello": {
+                    "board": 0,
+                    "card": 0
+                }
+            },
+            "location": false,
+            "votes": 0,
+            "viewingMemberVoted": false,
+            "subscribed": false,
+            "fogbugz": "",
+            "checkItems": 0,
+            "checkItemsChecked": 0,
+            "checkItemsEarliestDue": null,
+            "comments": 3,
+            "attachments": 0,
+            "description": false,
+            "due": null,
+            "dueComplete": false
+        },
+        "dueComplete": false,
+        "due": null,
+        "idChecklists": [],
+        "idMembers": [],
+        "labels": [
+            {
+                "id": "5eb0118da24677822bb371f0",
+                "idBoard": "5eb0118da24677822bb3716d",
+                "name": "Share",
+                "color": "orange"
+            }
+        ],
+        "shortUrl": "https://trello.com/c/IEbLjfC7",
+        "subscribed": false,
+        "url": "https://trello.com/c/IEbLjfC7/111-fixes-to-our-dataops-iteration-slides-and-a-more-focused-story",
+        "cover": {
+            "idAttachment": null,
+            "color": null,
+            "idUploadedBackground": null,
+            "size": "normal",
+            "brightness": "light"
+        }
+    },
+    {
+        "id": "5eb051851f27677c877b3e95",
+        "checkItemStates": null,
+        "closed": false,
+        "dateLastActivity": "2020-05-04T17:34:09.210Z",
+        "desc": "",
+        "descData": null,
+        "dueReminder": null,
+        "idBoard": "5eb0118da24677822bb3716d",
+        "idList": "5eb0118da24677822bb37171",
+        "idMembersVoted": [],
+        "idShort": 108,
+        "idAttachmentCover": null,
+        "idLabels": [
+            "5eb0118da24677822bb371f0"
+        ],
+        "manualCoverAttachment": false,
+        "name": "multiple Infrastructure efficiencies & love in CNP (SSL cert automation, local DSW cache)",
+        "pos": 393215,
+        "shortLink": "wD5LDjym",
+        "isTemplate": false,
+        "badges": {
+            "attachmentsByType": {
+                "trello": {
+                    "board": 0,
+                    "card": 0
+                }
+            },
+            "location": false,
+            "votes": 0,
+            "viewingMemberVoted": false,
+            "subscribed": false,
+            "fogbugz": "",
+            "checkItems": 0,
+            "checkItemsChecked": 0,
+            "checkItemsEarliestDue": null,
+            "comments": 0,
+            "attachments": 0,
+            "description": false,
+            "due": null,
+            "dueComplete": false
+        },
+        "dueComplete": false,
+        "due": null,
+        "idChecklists": [],
+        "idMembers": [],
+        "labels": [
+            {
+                "id": "5eb0118da24677822bb371f0",
+                "idBoard": "5eb0118da24677822bb3716d",
+                "name": "Share",
+                "color": "orange"
+            }
+        ],
+        "shortUrl": "https://trello.com/c/wD5LDjym",
+        "subscribed": false,
+        "url": "https://trello.com/c/wD5LDjym/108-multiple-infrastructure-efficiencies-love-in-cnp-ssl-cert-automation-local-dsw-cache",
+        "cover": {
+            "idAttachment": null,
+            "color": null,
+            "idUploadedBackground": null,
+            "size": "normal",
+            "brightness": "light"
+        }
+    },
+    {
+        "id": "5eb051ec2241f58ae719c509",
+        "checkItemStates": null,
+        "closed": false,
+        "dateLastActivity": "2020-05-04T18:18:06.317Z",
+        "desc": "",
+        "descData": null,
+        "dueReminder": null,
+        "idBoard": "5eb0118da24677822bb3716d",
+        "idList": "5eb0118da24677822bb37171",
+        "idMembersVoted": [],
+        "idShort": 114,
+        "idAttachmentCover": null,
+        "idLabels": [
+            "5eb0118da24677822bb371f0"
+        ],
+        "manualCoverAttachment": false,
+        "name": "People are very receptive about the idea of a standard secret manipulation tecinque.  Looking forward to the spikes of the two approaches chosen.",
+        "pos": 425983,
+        "shortLink": "76QzrcZB",
+        "isTemplate": false,
+        "badges": {
+            "attachmentsByType": {
+                "trello": {
+                    "board": 0,
+                    "card": 0
+                }
+            },
+            "location": false,
+            "votes": 0,
+            "viewingMemberVoted": false,
+            "subscribed": true,
+            "fogbugz": "",
+            "checkItems": 0,
+            "checkItemsChecked": 0,
+            "checkItemsEarliestDue": null,
+            "comments": 5,
+            "attachments": 0,
+            "description": false,
+            "due": null,
+            "dueComplete": false
+        },
+        "dueComplete": false,
+        "due": null,
+        "idChecklists": [],
+        "idMembers": [],
+        "labels": [
+            {
+                "id": "5eb0118da24677822bb371f0",
+                "idBoard": "5eb0118da24677822bb3716d",
+                "name": "Share",
+                "color": "orange"
+            }
+        ],
+        "shortUrl": "https://trello.com/c/76QzrcZB",
+        "subscribed": true,
+        "url": "https://trello.com/c/76QzrcZB/114-people-are-very-receptive-about-the-idea-of-a-standard-secret-manipulation-tecinque-looking-forward-to-the-spikes-of-the-two-app",
+        "cover": {
+            "idAttachment": null,
+            "color": null,
+            "idUploadedBackground": null,
+            "size": "normal",
+            "brightness": "light"
+        }
+    },
+    {
+        "id": "5eb051f06d06bf12725d989c",
+        "checkItemStates": null,
+        "closed": false,
+        "dateLastActivity": "2020-05-04T17:34:00.664Z",
+        "desc": "",
+        "descData": null,
+        "dueReminder": null,
+        "idBoard": "5eb0118da24677822bb3716d",
+        "idList": "5eb0118da24677822bb37171",
+        "idMembersVoted": [],
+        "idShort": 115,
+        "idAttachmentCover": null,
+        "idLabels": [
+            "5eb0118da24677822bb371f0"
+        ],
+        "manualCoverAttachment": false,
+        "name": "Focus on team achievements during Iteration Review without any faces on them. Looked really nice!",
+        "pos": 442367,
+        "shortLink": "HpCglGs1",
+        "isTemplate": false,
+        "badges": {
+            "attachmentsByType": {
+                "trello": {
+                    "board": 0,
+                    "card": 0
+                }
+            },
+            "location": false,
+            "votes": 0,
+            "viewingMemberVoted": false,
+            "subscribed": false,
+            "fogbugz": "",
+            "checkItems": 0,
+            "checkItemsChecked": 0,
+            "checkItemsEarliestDue": null,
+            "comments": 0,
+            "attachments": 0,
+            "description": false,
+            "due": null,
+            "dueComplete": false
+        },
+        "dueComplete": false,
+        "due": null,
+        "idChecklists": [],
+        "idMembers": [],
+        "labels": [
+            {
+                "id": "5eb0118da24677822bb371f0",
+                "idBoard": "5eb0118da24677822bb3716d",
+                "name": "Share",
+                "color": "orange"
+            }
+        ],
+        "shortUrl": "https://trello.com/c/HpCglGs1",
+        "subscribed": false,
+        "url": "https://trello.com/c/HpCglGs1/115-focus-on-team-achievements-during-iteration-review-without-any-faces-on-them-looked-really-nice",
+        "cover": {
+            "idAttachment": null,
+            "color": null,
+            "idUploadedBackground": null,
+            "size": "normal",
+            "brightness": "light"
+        }
+    },
+    {
+        "id": "5eb0519ef4dfb67ff291250b",
+        "checkItemStates": null,
+        "closed": false,
+        "dateLastActivity": "2020-05-04T18:20:13.449Z",
+        "desc": "",
+        "descData": null,
+        "dueReminder": null,
+        "idBoard": "5eb0118da24677822bb3716d",
+        "idList": "5eb0118da24677822bb37171",
+        "idMembersVoted": [],
+        "idShort": 109,
+        "idAttachmentCover": null,
+        "idLabels": [
+            "5eb0118da24677822bb371f0"
+        ],
+        "manualCoverAttachment": false,
+        "name": "CS360 Live which removes the moose-in-the-room of S360 security compliance.",
+        "pos": 458751,
+        "shortLink": "klyfGirO",
+        "isTemplate": false,
+        "badges": {
+            "attachmentsByType": {
+                "trello": {
+                    "board": 0,
+                    "card": 0
+                }
+            },
+            "location": false,
+            "votes": 0,
+            "viewingMemberVoted": false,
+            "subscribed": false,
+            "fogbugz": "",
+            "checkItems": 0,
+            "checkItemsChecked": 0,
+            "checkItemsEarliestDue": null,
+            "comments": 0,
+            "attachments": 0,
+            "description": false,
+            "due": null,
+            "dueComplete": false
+        },
+        "dueComplete": false,
+        "due": null,
+        "idChecklists": [],
+        "idMembers": [],
+        "labels": [
+            {
+                "id": "5eb0118da24677822bb371f0",
+                "idBoard": "5eb0118da24677822bb3716d",
+                "name": "Share",
+                "color": "orange"
+            }
+        ],
+        "shortUrl": "https://trello.com/c/klyfGirO",
+        "subscribed": false,
+        "url": "https://trello.com/c/klyfGirO/109-cs360-live-which-removes-the-moose-in-the-room-of-s360-security-compliance",
+        "cover": {
+            "idAttachment": null,
+            "color": null,
+            "idUploadedBackground": null,
+            "size": "normal",
+            "brightness": "light"
+        }
+    },
+    {
+        "id": "5eb05215fd0d05104bc2430d",
+        "checkItemStates": null,
+        "closed": false,
+        "dateLastActivity": "2020-05-05T20:12:30.152Z",
+        "desc": "",
+        "descData": null,
+        "dueReminder": null,
+        "idBoard": "5eb0118da24677822bb3716d",
+        "idList": "5eb0118da24677822bb37172",
+        "idMembersVoted": [],
+        "idShort": 116,
+        "idAttachmentCover": null,
+        "idLabels": [
+            "5eb0118da24677822bb371ec"
+        ],
+        "manualCoverAttachment": false,
+        "name": "Bold idea? Glue Gotham's house doors closed so he's forced to stay remote and maybe learn to love it.",
+        "pos": 294911.5,
+        "shortLink": "unIiyD0W",
+        "isTemplate": false,
+        "badges": {
+            "attachmentsByType": {
+                "trello": {
+                    "board": 0,
+                    "card": 0
+                }
+            },
+            "location": false,
+            "votes": 0,
+            "viewingMemberVoted": false,
+            "subscribed": true,
+            "fogbugz": "",
+            "checkItems": 0,
+            "checkItemsChecked": 0,
+            "checkItemsEarliestDue": null,
+            "comments": 10,
+            "attachments": 0,
+            "description": false,
+            "due": null,
+            "dueComplete": false
+        },
+        "dueComplete": false,
+        "due": null,
+        "idChecklists": [],
+        "idMembers": [],
+        "labels": [
+            {
+                "id": "5eb0118da24677822bb371ec",
+                "idBoard": "5eb0118da24677822bb3716d",
+                "name": "Dare",
+                "color": "green"
+            }
+        ],
+        "shortUrl": "https://trello.com/c/unIiyD0W",
+        "subscribed": true,
+        "url": "https://trello.com/c/unIiyD0W/116-bold-idea-glue-gothams-house-doors-closed-so-hes-forced-to-stay-remote-and-maybe-learn-to-love-it",
+        "cover": {
+            "idAttachment": null,
+            "color": null,
+            "idUploadedBackground": null,
+            "size": "normal",
+            "brightness": "light"
+        }
+    },
+    {
+        "id": "5eb0506cbe65710dc75ce905",
+        "checkItemStates": null,
+        "closed": false,
+        "dateLastActivity": "2020-05-04T18:26:17.703Z",
+        "desc": "",
+        "descData": null,
+        "dueReminder": null,
+        "idBoard": "5eb0118da24677822bb3716d",
+        "idList": "5eb0118da24677822bb37172",
+        "idMembersVoted": [],
+        "idShort": 82,
+        "idAttachmentCover": null,
+        "idLabels": [
+            "5eb0118da24677822bb371ec"
+        ],
+        "manualCoverAttachment": false,
+        "name": "Plan and lock down the iteration.",
+        "pos": 360447.5,
+        "shortLink": "16pFRSrb",
+        "isTemplate": false,
+        "badges": {
+            "attachmentsByType": {
+                "trello": {
+                    "board": 0,
+                    "card": 0
+                }
+            },
+            "location": false,
+            "votes": 0,
+            "viewingMemberVoted": false,
+            "subscribed": false,
+            "fogbugz": "",
+            "checkItems": 0,
+            "checkItemsChecked": 0,
+            "checkItemsEarliestDue": null,
+            "comments": 10,
+            "attachments": 0,
+            "description": false,
+            "due": null,
+            "dueComplete": false
+        },
+        "dueComplete": false,
+        "due": null,
+        "idChecklists": [],
+        "idMembers": [],
+        "labels": [
+            {
+                "id": "5eb0118da24677822bb371ec",
+                "idBoard": "5eb0118da24677822bb3716d",
+                "name": "Dare",
+                "color": "green"
+            }
+        ],
+        "shortUrl": "https://trello.com/c/16pFRSrb",
+        "subscribed": false,
+        "url": "https://trello.com/c/16pFRSrb/82-plan-and-lock-down-the-iteration",
+        "cover": {
+            "idAttachment": null,
+            "color": null,
+            "idUploadedBackground": null,
+            "size": "normal",
+            "brightness": "light"
+        }
+    },
+    {
+        "id": "5eb0509015045e73f3b9509e",
+        "checkItemStates": null,
+        "closed": false,
+        "dateLastActivity": "2020-05-04T18:29:03.036Z",
+        "desc": "",
+        "descData": {
+            "emoji": {}
+        },
+        "dueReminder": null,
+        "idBoard": "5eb0118da24677822bb3716d",
+        "idList": "5eb0118da24677822bb37172",
+        "idMembersVoted": [],
+        "idShort": 84,
+        "idAttachmentCover": null,
+        "idLabels": [
+            "5eb0118da24677822bb371ec"
+        ],
+        "manualCoverAttachment": false,
+        "name": "Put a ring on those iteration items and don't let it be a runaway bride",
+        "pos": 425983.5,
+        "shortLink": "W4aSTcz1",
+        "isTemplate": false,
+        "badges": {
+            "attachmentsByType": {
+                "trello": {
+                    "board": 0,
+                    "card": 0
+                }
+            },
+            "location": false,
+            "votes": 0,
+            "viewingMemberVoted": false,
+            "subscribed": false,
+            "fogbugz": "",
+            "checkItems": 0,
+            "checkItemsChecked": 0,
+            "checkItemsEarliestDue": null,
+            "comments": 6,
+            "attachments": 0,
+            "description": false,
+            "due": null,
+            "dueComplete": false
+        },
+        "dueComplete": false,
+        "due": null,
+        "idChecklists": [],
+        "idMembers": [],
+        "labels": [
+            {
+                "id": "5eb0118da24677822bb371ec",
+                "idBoard": "5eb0118da24677822bb3716d",
+                "name": "Dare",
+                "color": "green"
+            }
+        ],
+        "shortUrl": "https://trello.com/c/W4aSTcz1",
+        "subscribed": false,
+        "url": "https://trello.com/c/W4aSTcz1/84-put-a-ring-on-those-iteration-items-and-dont-let-it-be-a-runaway-bride",
+        "cover": {
+            "idAttachment": null,
+            "color": null,
+            "idUploadedBackground": null,
+            "size": "normal",
+            "brightness": "light"
+        }
+    },
+    {
+        "id": "5eb066f63c63d37d1c7297b1",
+        "checkItemStates": null,
+        "closed": false,
+        "dateLastActivity": "2020-05-04T19:03:18.982Z",
+        "desc": "",
+        "descData": null,
+        "dueReminder": null,
+        "idBoard": "5eb0118da24677822bb3716d",
+        "idList": "5eb0118da24677822bb37173",
+        "idMembersVoted": [],
+        "idShort": 117,
+        "idAttachmentCover": null,
+        "idLabels": [],
+        "manualCoverAttachment": false,
+        "name": "I thought this was great dialog, @Dave.  Thanks!!",
+        "pos": 65535,
+        "shortLink": "317zz1jg",
+        "isTemplate": false,
+        "badges": {
+            "attachmentsByType": {
+                "trello": {
+                    "board": 0,
+                    "card": 0
+                }
+            },
+            "location": false,
+            "votes": 0,
+            "viewingMemberVoted": false,
+            "subscribed": false,
+            "fogbugz": "",
+            "checkItems": 0,
+            "checkItemsChecked": 0,
+            "checkItemsEarliestDue": null,
+            "comments": 0,
+            "attachments": 0,
+            "description": false,
+            "due": null,
+            "dueComplete": false
+        },
+        "dueComplete": false,
+        "due": null,
+        "idChecklists": [],
+        "idMembers": [],
+        "labels": [],
+        "shortUrl": "https://trello.com/c/317zz1jg",
+        "subscribed": false,
+        "url": "https://trello.com/c/317zz1jg/117-i-thought-this-was-great-dialog-dave-thanks",
+        "cover": {
+            "idAttachment": null,
+            "color": null,
+            "idUploadedBackground": null,
+            "size": "normal",
+            "brightness": "light"
+        }
+    },
+    {
+        "id": "5eb0671f81c4de5bc6fec163",
+        "checkItemStates": null,
+        "closed": false,
+        "dateLastActivity": "2020-05-04T19:03:59.134Z",
+        "desc": "",
+        "descData": null,
+        "dueReminder": null,
+        "idBoard": "5eb0118da24677822bb3716d",
+        "idList": "5eb0118da24677822bb37173",
+        "idMembersVoted": [],
+        "idShort": 118,
+        "idAttachmentCover": null,
+        "idLabels": [],
+        "manualCoverAttachment": false,
+        "name": "Great, it let us identify some concerns from the team and have a discussion around them.",
+        "pos": 131071,
+        "shortLink": "hhm51Iaw",
+        "isTemplate": false,
+        "badges": {
+            "attachmentsByType": {
+                "trello": {
+                    "board": 0,
+                    "card": 0
+                }
+            },
+            "location": false,
+            "votes": 0,
+            "viewingMemberVoted": false,
+            "subscribed": false,
+            "fogbugz": "",
+            "checkItems": 0,
+            "checkItemsChecked": 0,
+            "checkItemsEarliestDue": null,
+            "comments": 0,
+            "attachments": 0,
+            "description": false,
+            "due": null,
+            "dueComplete": false
+        },
+        "dueComplete": false,
+        "due": null,
+        "idChecklists": [],
+        "idMembers": [],
+        "labels": [],
+        "shortUrl": "https://trello.com/c/hhm51Iaw",
+        "subscribed": false,
+        "url": "https://trello.com/c/hhm51Iaw/118-great-it-let-us-identify-some-concerns-from-the-team-and-have-a-discussion-around-them",
+        "cover": {
+            "idAttachment": null,
+            "color": null,
+            "idUploadedBackground": null,
+            "size": "normal",
+            "brightness": "light"
+        }
+    },
+    {
+        "id": "5eb0118da24677822bb371e9",
+        "checkItemStates": null,
+        "closed": false,
+        "dateLastActivity": "2020-05-04T13:29:42.004Z",
+        "desc": "",
+        "descData": null,
+        "dueReminder": null,
+        "idBoard": "5eb0118da24677822bb3716d",
+        "idList": "5eb0118da24677822bb37174",
+        "idMembersVoted": [],
+        "idShort": 51,
+        "idAttachmentCover": null,
+        "idLabels": [],
+        "manualCoverAttachment": false,
+        "name": "12 Jun 2020 - Raf",
+        "pos": 65535,
+        "shortLink": "1DT6QSKp",
+        "isTemplate": false,
+        "badges": {
+            "attachmentsByType": {
+                "trello": {
+                    "board": 0,
+                    "card": 0
+                }
+            },
+            "location": false,
+            "votes": 0,
+            "viewingMemberVoted": false,
+            "subscribed": false,
+            "fogbugz": "",
+            "checkItems": 0,
+            "checkItemsChecked": 0,
+            "checkItemsEarliestDue": null,
+            "comments": 0,
+            "attachments": 0,
+            "description": false,
+            "due": null,
+            "dueComplete": false
+        },
+        "dueComplete": false,
+        "due": null,
+        "idChecklists": [],
+        "idMembers": [],
+        "labels": [],
+        "shortUrl": "https://trello.com/c/1DT6QSKp",
+        "subscribed": false,
+        "url": "https://trello.com/c/1DT6QSKp/51-12-jun-2020-raf",
+        "cover": {
+            "idAttachment": null,
+            "color": null,
+            "idUploadedBackground": null,
+            "size": "normal",
+            "brightness": "light"
+        }
+    }
+]

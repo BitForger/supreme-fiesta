@@ -1,0 +1,26 @@
+{
+  "name": "retro-board-counter",
+  "version": "1.0.0",
+  "description": "A simple CLI tool to find and return the most voted cards in the trello retro board",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "yargs": "^15.3.1",
+    "dotenv": "^8.2.0",
+    "colors": "^1.4.0",
+    "eslint": "^6.8.0",
+    "eslint-plugin-typescript": "^0.14.0",
+    "typescript": "^3.8.3"
+  },
+  "devDependencies": {
+    "@types/node": "^13.13.4",
+    "@types/yargs": "^15.0.4",
+    "@types/axios": "^0.14.0"
+  }
+}
